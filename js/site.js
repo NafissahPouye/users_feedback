@@ -2,16 +2,16 @@ function generatingComponent(vardata){
   var reqs = dc.rowChart('#rd') ;
   var use = dc.rowChart('#pp') ;
   var orgs = dc.rowChart('#org') ;
-  //var Rstate = dc.pieChart ('#State') ;
-  var Rstatus = dc.pieChart ('#Status') ;
+  var Rstate = dc.rowChart ('#State') ;
+ // var Rstatus = dc.pieChart ('#Status') ;
   var Rtype = dc.pieChart ('#type') ;
   var colors = ['#FAE61E','#03a9f4','#E67800','#C80000','#E6E6FA', '#023858', '#a6bddb','#3690c0'] ;
 
 var cf = crossfilter(vardata);
 var all = cf.groupAll();
 var colors = ['#2C5197','#0B0B61'] ;
-//var stateDim = cf.dimension(function(d) { return d.state});
-//var stateGroup = stateDim.group();
+var stateDim = cf.dimension(function(d) { return d.dataset});
+var stateGroup = stateDim.group();
 /*var RtypeDim = cf.dimension(function(d) { return d.contact});
 var RtypeGroup = RtypeDim.group();
 var statusDim = cf.dimension(function(d) {return d.feedback});
@@ -37,7 +37,7 @@ var orgGroup = orgDim.group();
             }); 
     Rtype.ordinalColors(['#C0D7EB','#007CE1', '#E6E7E8']);
 // rowCharts*/
-  reqs.width(350).height(350)
+  reqs.width(450).height(450)
             .dimension(reqDim)
             .group(reqGroup)
              .elasticX(true)
@@ -48,6 +48,18 @@ var orgGroup = orgDim.group();
             .colorAccessor(function(d, i){return 0;});
             /*reqs.renderVerticalGridLines(false);
             reqs.renderVerticalGridLines(false);*/
+ Rstate.width(450).height(450)
+            .dimension(stateDim)
+            .group(stateGroup)
+             .elasticX(true)
+             .data(function(group) {
+                return group.top(15);
+            })
+            .colors('#FF8C00')
+            .colorAccessor(function(d, i){return 0;});
+            /*reqs.renderVerticalGridLines(false);
+            reqs.renderVerticalGridLines(false);*/
+
 
   use.width(350)
      .height(350)
