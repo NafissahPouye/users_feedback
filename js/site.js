@@ -61,8 +61,8 @@ var orgGroup = orgDim.group();
             reqs.renderVerticalGridLines(false);*/
 
 
-  use.width(350)
-     .height(350)
+  use.width(450)
+     .height(450)
             .dimension(useDim)
             .group(useGroup)
             .elasticX(true)
@@ -74,8 +74,8 @@ var orgGroup = orgDim.group();
             /*use.renderVerticalGridLines(false);
             use.renderVerticalGridLines(false);*/
             
-   orgs.width(350)
-     .height(350)
+   orgs.width(450)
+     .height(450)
             .dimension(orgDim)
             .group(orgGroup)
             .elasticX(true)
