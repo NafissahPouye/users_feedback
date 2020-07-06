@@ -37,23 +37,23 @@ var orgGroup = orgDim.group();
             }); 
     Rtype.ordinalColors(['#C0D7EB','#007CE1', '#E6E7E8']);
 // rowCharts*/
-  reqs.width(450).height(450)
+  reqs.width(500).height(500)
             .dimension(reqDim)
             .group(reqGroup)
              .elasticX(true)
              .data(function(group) {
-                return group.top(15);
+                return group.top(50);
             })
             .colors('#FF8C00')
             .colorAccessor(function(d, i){return 0;});
             /*reqs.renderVerticalGridLines(false);
             reqs.renderVerticalGridLines(false);*/
- Rstate.width(450).height(450)
+ Rstate.width(500).height(900)
             .dimension(stateDim)
             .group(stateGroup)
              .elasticX(true)
              .data(function(group) {
-                return group.top(15);
+                return group.top(50);
             })
             .colors('#FF8C00')
             .colorAccessor(function(d, i){return 0;});
@@ -61,26 +61,26 @@ var orgGroup = orgDim.group();
             reqs.renderVerticalGridLines(false);*/
 
 
-  use.width(450)
-     .height(450)
+  use.width(500)
+     .height(500)
             .dimension(useDim)
             .group(useGroup)
             .elasticX(true)
             .data(function(group) {
-                return group.top(20);
+                return group.top(50);
             })
             .colors('#FF8C00')
             .colorAccessor(function(d, i){return 0;});
             /*use.renderVerticalGridLines(false);
             use.renderVerticalGridLines(false);*/
             
-   orgs.width(450)
-     .height(450)
+   orgs.width(500)
+     .height(900)
             .dimension(orgDim)
             .group(orgGroup)
             .elasticX(true)
             .data(function(group) {
-                return group.top(20);
+                return group.top(50);
             })
             .colors('#FF8C00')
             .colorAccessor(function(d, i){return 0;})

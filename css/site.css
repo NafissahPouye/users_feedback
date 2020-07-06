@@ -18,11 +18,7 @@
   background-color: #1DBFB2;
 }
 */
-#status{
-    
-    margin-bottom: 30px;
-    padding-left: 0px;
-    
+
 }
 .special{
     background-color: "#1BB580";
@@ -32,6 +28,21 @@
 }
 #who{
   padding-left: 0px;
+}
+#org{
+    padding-left: 40px;
+   
+}
+#State{
+    padding-left: 150px;
+}
+#rd{
+    padding-left: 150px;
+    padding-bottom: 50px;
+}
+#pp{
+    padding-left: 40px;
+    padding-bottom: 50px;
 }
 #header{
     border-bottom-color: #dddddd;

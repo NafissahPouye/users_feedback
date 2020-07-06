@@ -1,5 +1,33 @@
 [
   {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Private Sector",
+    "organisation": "ocha-rosea",
+    "dataset": "Zambia administrative level 0-2 boundaries"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Private Sector",
+    "organisation": "ocha-rosea",
+    "dataset": "Zambia administrative level 0-2 boundaries"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Private Sector",
+    "organisation": "facebook",
+    "dataset": "Indonesia: High Resolution Population Density Maps + Demographic Estimates"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Blank / Invalid Response",
+    "organisation": "ocha-sudan",
+    "dataset": "Sudan Administrative boundary level 0"
+  },
+  {
     "feedback": "Neutral",
     "contact": "No",
     "affiliation": "Private Sector",
@@ -7,11 +35,32 @@
     "dataset": "South Africa administrative levels 0-4 boundaries"
   },
   {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Non-Profit Organization",
+    "organisation": "reliefweb",
+    "dataset": "ReliefWeb Crisis Figures Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "ocha-rosea",
+    "dataset": "Zambia administrative level 0-2 boundaries"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Non-Profit Organization",
+    "organisation": "hdx",
+    "dataset": "Ethiopia - Acute Food Insecurity"
+  },
+  {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "International Organization",
     "organisation": "ocha-rosea",
-    "dataset": ""
+    "dataset": "Zambia administrative level 0-2 boundaries"
   },
   {
     "feedback": "Neutral",
@@ -25,14 +74,14 @@
     "contact": "Yes",
     "affiliation": "International Organization",
     "organisation": "insecurity-insight",
-    "dataset": ""
+    "dataset": "Attacks on Health Care in Countries in Conflict"
   },
   {
     "feedback": "Positive",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "insecurity-insight",
-    "dataset": ""
+    "dataset": "Attacks on Health Care in Countries in Conflict"
   },
   {
     "feedback": "Very Negative",
@@ -40,6 +89,13 @@
     "affiliation": "Academic / Research Institution",
     "organisation": "hdx",
     "dataset": "Geographic Distribution of COVID-19 Cases Worldwide"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Blank / Invalid Response",
+    "organisation": "insecurity-insight",
+    "dataset": "Attacks on Health Care in Countries in Conflict"
   },
   {
     "feedback": "Positive",
@@ -53,14 +109,28 @@
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "insecurity-insight",
-    "dataset": ""
+    "dataset": "Attacks on Health Care in Countries in Conflict"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Non-Profit Organization",
+    "organisation": "wfp",
+    "dataset": "ICA Mozambique - Cyclone Hazard"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Non-Profit Organization",
+    "organisation": "acu",
+    "dataset": "Market Price Index in Syria"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "facebook",
-    "dataset": ""
+    "dataset": "Indonesia: High Resolution Population Density Maps + Demographic Estimates"
   },
   {
     "feedback": "Very Positive",
@@ -74,7 +144,14 @@
     "contact": "Yes",
     "affiliation": "International Organization",
     "organisation": "inform",
-    "dataset": ""
+    "dataset": "The regional INFORM Sahel model"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Private Sector",
+    "organisation": "ocha-roap",
+    "dataset": "Bangladesh - Rivers"
   },
   {
     "feedback": "Neutral",
@@ -95,7 +172,7 @@
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "ocha-rosea",
-    "dataset": ""
+    "dataset": "South Africa administrative levels 0-4 boundaries"
   },
   {
     "feedback": "Positive",
@@ -109,21 +186,49 @@
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "ocha-rosea",
-    "dataset": ""
+    "dataset": "South Africa administrative levels 0-4 boundaries"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "None / Personal Use",
+    "organisation": "who-burkina",
+    "dataset": "Burkina - Faso : Données épidémiologiques - TLOH"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "ocha-rosea",
+    "dataset": "South Africa administrative levels 0-4 boundaries"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "ocha-rosea",
+    "dataset": "South Africa administrative levels 0-4 boundaries"
   },
   {
     "feedback": "Positive",
     "contact": "Yes",
     "affiliation": "Government",
     "organisation": "ocha-rosea",
-    "dataset": ""
+    "dataset": "South Africa administrative levels 0-4 boundaries"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "ocha-philippines",
-    "dataset": ""
+    "dataset": "Philippines - Enrolment in public and private schools by level of education"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Private Sector",
+    "organisation": "unesco",
+    "dataset": "South Africa - Education: Students and Teachers"
   },
   {
     "feedback": "Positive",
@@ -133,8 +238,29 @@
     "dataset": "Democratic Republic of the Congo, Road Network"
   },
   {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Private Sector",
+    "organisation": "inter-sector-coordination-group",
+    "dataset": "Bangladesh - Outline of camps of Rohingya refugees in Cox's Bazar"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "ocha-rosea",
+    "dataset": "Kenya - Logistics"
+  },
+  {
     "feedback": "Very Positive",
     "contact": "Yes",
+    "affiliation": "None / Personal Use",
+    "organisation": "burkina-open-data-initiative",
+    "dataset": "Liste des villages du Burkina Faso - Recensement 2006"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
     "affiliation": "None / Personal Use",
     "organisation": "burkina-open-data-initiative",
     "dataset": "Liste des villages du Burkina Faso - Recensement 2006"
@@ -147,11 +273,53 @@
     "dataset": "Sierra Leone settlements"
   },
   {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "ocha-romena",
+    "dataset": "Iran (Islamic Republic of) administrative levels 0-2 boundaries"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "ocha-romena",
+    "dataset": "Iran (Islamic Republic of) administrative levels 0-2 boundaries"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "ocha-fiss",
+    "dataset": "Nepal - Subnational Administrative Boundaries"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "ocha-nepal",
+    "dataset": "Nepal Watercourses - Rivers"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Private Sector",
+    "organisation": "hot",
+    "dataset": "HOTOSM South Africa Education Facilities (OpenStreetMap Export)"
+  },
+  {
     "feedback": "Very Positive",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "ocha-fiss",
-    "dataset": ""
+    "dataset": "Nepal - Subnational Administrative Boundaries"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "ocha-burkina",
+    "dataset": "Burkina Faso administrative level 0-3 boundaries"
   },
   {
     "feedback": "Neutral",
@@ -165,14 +333,21 @@
     "contact": "No",
     "affiliation": "Non-Profit Organization",
     "organisation": "ocha-fiss",
-    "dataset": ""
+    "dataset": "Nepal - Subnational Administrative Boundaries"
   },
   {
     "feedback": "Positive",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "ocha-fiss",
-    "dataset": ""
+    "dataset": "Nepal - Subnational Administrative Boundaries"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "ocha-fiss",
+    "dataset": "Nepal - Subnational Administrative Boundaries"
   },
   {
     "feedback": "Neutral",
@@ -189,32 +364,60 @@
     "dataset": "ACAPS COVID-19: Government Measures Dataset"
   },
   {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "ocha-fiss",
+    "dataset": "Nepal - Subnational Administrative Boundaries"
+  },
+  {
     "feedback": "Neutral",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "ocha-fiss",
-    "dataset": ""
+    "dataset": "Nepal - Subnational Administrative Boundaries"
   },
   {
     "feedback": "Positive",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "ocha-fiss",
-    "dataset": ""
+    "dataset": "Nepal - Subnational Administrative Boundaries"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "ocha-fiss",
-    "dataset": ""
+    "dataset": "Nepal - Subnational Administrative Boundaries"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "ocha-fiss",
+    "dataset": "Nepal - Subnational Administrative Boundaries"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "facebook",
+    "dataset": "Colombia: High Resolution Population Density Maps + Demographic Estimates"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "International Organization",
+    "organisation": "reach-initiative",
+    "dataset": "Whole of Afghanistan Assessment - Hard to Reach Dataset - August 2018"
   },
   {
     "feedback": "Neutral",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "international-organization-for-migration",
-    "dataset": ""
+    "dataset": "Country Point of Entry Mobility Restriction - Covid-19 [IOM DTM]"
   },
   {
     "feedback": "Positive",
@@ -228,14 +431,14 @@
     "contact": "Yes",
     "affiliation": "International Organization",
     "organisation": "ocha-fiss",
-    "dataset": ""
+    "dataset": "Guatemala - Subnational Administrative Boundaries"
   },
   {
     "feedback": "Positive",
     "contact": "Yes",
     "affiliation": "Government",
     "organisation": "ocha-ethiopia",
-    "dataset": ""
+    "dataset": "Hotspot priority woredas"
   },
   {
     "feedback": "Neutral",
@@ -245,18 +448,67 @@
     "dataset": "HOTOSM Pakistan Roads (OpenStreetMap Export)"
   },
   {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Blank / Invalid Response",
+    "organisation": "healthsites",
+    "dataset": "Jordan-healthsites"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Blank / Invalid Response",
+    "organisation": "hdx",
+    "dataset": "Nepal Census 2011 District Profiles (Demography)"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "ocha-rosc",
+    "dataset": "Syrian Arab Republic - Administrative Boundaries, Populated Places"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "hdx",
+    "dataset": "Nepal Census 2011 District Profiles (Demography)"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "facebook",
+    "dataset": "Regional Bloc for Pakistan & India_47: High Resolution Population Density Maps"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "healthsites",
+    "dataset": "Ghana-healthsites"
+  },
+  {
     "feedback": "Positive",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "world-health-organization",
-    "dataset": ""
+    "dataset": "Nigeria - Health Indicators"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "alhasan-systems-private-limited",
+    "dataset": "Pakistan Union Council Boundaries along with other admin boundaries dataset."
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "world-health-organization",
-    "dataset": ""
+    "dataset": "Nigeria - Health Indicators"
   },
   {
     "feedback": "Positive",
@@ -270,84 +522,238 @@
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "world-health-organization",
-    "dataset": ""
+    "dataset": "Nigeria - Health Indicators"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "world-bank-group",
+    "dataset": "Ghana - Science and Technology"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "ocha-mali",
+    "dataset": "Mali - Settlements"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "None / Personal Use",
+    "organisation": "ocha-roap",
+    "dataset": "Bangladesh administrative level 0-4 boundary polygons, lines, points, tabular data, and live services"
   },
   {
     "feedback": "Very Positive",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "ocha-roap",
-    "dataset": ""
+    "dataset": "China administrative level 0-2 boundaries and gazetteer"
   },
   {
     "feedback": "Positive",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "ocha-mali",
-    "dataset": ""
+    "dataset": "Malian Refugees: Camp locations in Mauritania, Niger and Burkina Faso"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "International Organization",
+    "organisation": "rimwg-e",
+    "dataset": "Greece - Administrative Boundaries"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "None / Personal Use",
+    "organisation": "care-bangladesh",
+    "dataset": "Bangladesh: District Wise Quarantine for COVID-19"
   },
   {
     "feedback": "Neutral",
     "contact": "No",
     "affiliation": "Government",
     "organisation": "acled",
-    "dataset": ""
+    "dataset": "Venezuela (Bolivarian Republic of) - Conflict Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "care-bangladesh",
+    "dataset": "Bangladesh: District Wise Quarantine for COVID-19"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "facebook",
+    "dataset": "Vietnam: High Resolution Population Density Maps + Demographic Estimates"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "care-bangladesh",
+    "dataset": "Bangladesh: District Wise Quarantine for COVID-19"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "wfp",
+    "dataset": "Ukraine streets and pathways"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "care-bangladesh",
+    "dataset": "Bangladesh: District Wise Quarantine for COVID-19"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "inter-sector-coordination-group",
+    "dataset": "Bangladesh - Outline of camps of Rohingya refugees in Cox's Bazar"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "care-bangladesh",
+    "dataset": "Bangladesh: District Wise Quarantine for COVID-19"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Government",
     "organisation": "ocha-fiss",
-    "dataset": ""
+    "dataset": "Dominican Republic administrative level 0-4 boundaries"
   },
   {
     "feedback": "Neutral",
     "contact": "No",
     "affiliation": "Non-Profit Organization",
     "organisation": "burkina-open-data-initiative",
-    "dataset": ""
+    "dataset": "Liste des villages du Burkina Faso - Recensement 2006"
   },
   {
     "feedback": "Neutral",
     "contact": "Yes",
     "affiliation": "Non-Profit Organization",
     "organisation": "aewg",
-    "dataset": ""
+    "dataset": "Accelerated Education Working Group - Education Programme Mapping 2019"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Non-Profit Organization",
     "organisation": "acaps",
-    "dataset": ""
+    "dataset": "Yemen Crisis 5 Year Dataset"
   },
   {
     "feedback": "Neutral",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "acaps",
-    "dataset": ""
+    "dataset": "Yemen Crisis 5 Year Dataset"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "care-bangladesh",
+    "dataset": "Bangladesh: District Wise Quarantine for COVID-19"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "hdx",
+    "dataset": "Nepal Census 2011 District Profiles (Demography)"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Non-Profit Organization",
     "organisation": "facebook",
-    "dataset": ""
+    "dataset": "Thailand: High Resolution Population Density Maps + Demographic Estimates"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Blank / Invalid Response",
+    "organisation": "netherlands-red-cross",
+    "dataset": "Impact data - casualties and damage - Typhoon Haiyan (Yolanda)"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "International Organization",
+    "organisation": "ocha-sudan",
+    "dataset": "Sudan IDP camps"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "None / Personal Use",
+    "organisation": "unhcr",
+    "dataset": "Refugee status determinations for asylum seekers in Mauritius"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "ocha-romena",
+    "dataset": "Iran (Islamic Republic of) administrative levels 0-2 boundaries"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Non-Profit Organization",
+    "organisation": "ocha-romena",
+    "dataset": "Iran (Islamic Republic of) administrative levels 0-2 boundaries"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "None / Personal Use",
+    "organisation": "wfp",
+    "dataset": "Global Food Prices Database (WFP)"
   },
   {
     "feedback": "Neutral",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "ocha-mali",
-    "dataset": ""
+    "dataset": "Mali: Coronavirus(COVID-19) Subnational Cases"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "un-ocha",
+    "dataset": "Movement Range Maps"
   },
   {
     "feedback": "Neutral",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "wfp",
-    "dataset": ""
+    "dataset": "Global airports"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "academic",
+    "dataset": "Global airports"
   },
   {
     "feedback": "Positive",
@@ -357,32 +763,102 @@
     "dataset": "Global Food Prices Database (WFP)"
   },
   {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "ocha-rosa",
+    "dataset": "Madagascar administrative level 0 - 4 boundaries"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "hot",
+    "dataset": "HOTOSM Philippines (south) Waterways (OpenStreetMap Export)"
+  },
+  {
     "feedback": "Neutral",
     "contact": "Yes",
     "affiliation": "International Organization",
     "organisation": "ocha-rosa",
-    "dataset": ""
+    "dataset": "Madagascar administrative level 0 - 4 boundaries"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "international-organization-for-migration",
+    "dataset": "Haiti Displacement - [IDPs] - Site Assessment [IOM DTM]"
   },
   {
     "feedback": "Neutral",
     "contact": "No",
     "affiliation": "Non-Profit Organization",
     "organisation": "ocha-lebanon",
-    "dataset": ""
+    "dataset": "Lebanon - Settlements (villages, towns, cities)"
   },
   {
     "feedback": "Neutral",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "ocha-lebanon",
-    "dataset": ""
+    "dataset": "Lebanon - Settlements (villages, towns, cities)"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Blank / Invalid Response",
+    "organisation": "hdx",
+    "dataset": "Nepal Census 2011 District Profiles (Demography)"
   },
   {
     "feedback": "Negative",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "united-nations-office-for-disaster-risk-reduction-unisdr",
-    "dataset": ""
+    "dataset": "GAR15 Global Exposure Dataset for Mozambique"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "International Organization",
+    "organisation": "international-displacement-monitoring-centre-idmc",
+    "dataset": "Myanmar - Internally displaced persons - IDPs"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Non-Profit Organization",
+    "organisation": "ocha-burkina",
+    "dataset": "Burkina Faso administrative level 0-3 boundaries"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "ocha-burkina",
+    "dataset": "Burkina Faso administrative level 0-3 boundaries"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "ocha-philippines",
+    "dataset": "Philippines - Land Cover"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "un-ocha",
+    "dataset": "Covid-19 Economic Exposure Index"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "International Organization",
+    "organisation": "us-state-hiu",
+    "dataset": "Horn of Africa Refugee Database"
   },
   {
     "feedback": "Negative",
@@ -392,6 +868,13 @@
     "dataset": "Africa COVID19 Infected, Recovered and Deceased"
   },
   {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "backuprural",
+    "dataset": "Liberia: Coronavirus (Covid-19) Subnational"
+  },
+  {
     "feedback": "Positive",
     "contact": "Yes",
     "affiliation": "None / Personal Use",
@@ -399,11 +882,32 @@
     "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Private Sector",
+    "organisation": "ocha-rosea",
+    "dataset": "Kenya administrative level 0-2 boundaries"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "ocha-rosea",
+    "dataset": "Kenya administrative level 0-2 boundaries"
+  },
+  {
     "feedback": "Positive",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "ocha-rosea",
-    "dataset": ""
+    "dataset": "Kenya administrative level 0-2 boundaries"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Government",
+    "organisation": "ocha-rosea",
+    "dataset": "Kenya administrative level 0-2 boundaries"
   },
   {
     "feedback": "Very Positive",
@@ -424,49 +928,70 @@
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "ocha-opt",
-    "dataset": ""
+    "dataset": "State of Palestine - Administrative Boundaries (levels 0 - 3)"
   },
   {
     "feedback": "Positive",
     "contact": "Yes",
     "affiliation": "Media / News",
     "organisation": "acaps",
-    "dataset": ""
+    "dataset": "Yemen CrisisInSight Core Dataset 2020"
   },
   {
     "feedback": "Negative",
     "contact": "No",
     "affiliation": "International Organization",
     "organisation": "healthsites",
-    "dataset": ""
+    "dataset": "Iraq-healthsites"
   },
   {
     "feedback": "Neutral",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "healthsites",
-    "dataset": ""
+    "dataset": "Iraq-healthsites"
   },
   {
     "feedback": "Positive",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "ocha-rowca",
-    "dataset": ""
+    "dataset": "West and Central Africa Coronavirus covid-19 situation"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Blank / Invalid Response",
+    "organisation": "hdx",
+    "dataset": "Nepal Census 2011 District Profiles (Demography)"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "ocha-rowca",
+    "dataset": "West and Central Africa Coronavirus covid-19 situation"
   },
   {
     "feedback": "Neutral",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "inform",
-    "dataset": ""
+    "dataset": "INFORM Country Risk Profiles"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "ocha-rowca",
-    "dataset": ""
+    "dataset": "Liberia - Population statistics"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "dhs",
+    "dataset": "Côte d'Ivoire - National Demographic and Health Data"
   },
   {
     "feedback": "Negative",
@@ -476,18 +1001,25 @@
     "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "facebook",
+    "dataset": "Romania: High Resolution Population Density Maps + Demographic Estimates"
+  },
+  {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "facebook",
-    "dataset": ""
+    "dataset": "Romania: High Resolution Population Density Maps + Demographic Estimates"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "acled",
-    "dataset": ""
+    "dataset": "Ethiopia - Conflict Data"
   },
   {
     "feedback": "Very Positive",
@@ -508,35 +1040,42 @@
     "contact": "No",
     "affiliation": "Non-Profit Organization",
     "organisation": "ocha-rosc",
-    "dataset": ""
+    "dataset": "Syrian Arab Republic - Administrative Boundaries, Populated Places"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "un-operational-satellite-appplications-programme-unosat",
+    "dataset": "Syrian Arab Republic - Administrative Boundaries, Populated Places"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "dalberg",
-    "dataset": ""
+    "dataset": "Government Actions on COVID-19 in Developing Countries"
   },
   {
     "feedback": "Positive",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "dalberg",
-    "dataset": ""
+    "dataset": "Government Actions on COVID-19 in Developing Countries"
   },
   {
     "feedback": "Positive",
     "contact": "Yes",
     "affiliation": "International Organization",
     "organisation": "dalberg",
-    "dataset": ""
+    "dataset": "Government Actions on COVID-19 in Developing Countries"
   },
   {
     "feedback": "Neutral",
     "contact": "No",
     "affiliation": "Blank / Invalid Response",
     "organisation": "insecurity-insight",
-    "dataset": ""
+    "dataset": "Attacks on Health Care Monthly News Brief"
   },
   {
     "feedback": "Positive",
@@ -550,49 +1089,126 @@
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "international-displacement-monitoring-centre-idmc",
-    "dataset": ""
+    "dataset": "Bahamas - Internally displaced persons - IDPs"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "reach-initiative",
+    "dataset": "Cox's Bazar Refugee Settlement Infrastructure"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Non-Profit Organization",
     "organisation": "ocha-burkina",
-    "dataset": ""
+    "dataset": "Burkina Faso: Settlements"
   },
   {
     "feedback": "Neutral",
     "contact": "No",
     "affiliation": "Blank / Invalid Response",
     "organisation": "facebook",
-    "dataset": ""
+    "dataset": "Libya: High Resolution Population Density Maps + Demographic Estimates"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "alhasan-systems-private-limited",
+    "dataset": "Pakistan Union Council Boundaries along with other admin boundaries dataset"
   },
   {
     "feedback": "Neutral",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "alhasan-systems-private-limited",
-    "dataset": ""
+    "dataset": "Pakistan Union Council Boundaries along with other admin boundaries dataset"
   },
   {
     "feedback": "Very Positive",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "netherlands-red-cross",
-    "dataset": ""
+    "dataset": "Floods - Southern Malawi - March 2019"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Private Sector",
+    "organisation": "ocha-roap",
+    "dataset": "Viet Nam administrative level 0-2 boundaries"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "ocha-roap",
+    "dataset": "Viet Nam administrative level 0-2 boundaries"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "ocha-roap",
+    "dataset": "Viet Nam administrative level 0-2 boundaries"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Government",
+    "organisation": "ocha-ethiopia",
+    "dataset": "Ethiopia administrative level 0-3 population statistics"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "blavatnik-school-of-government-university-of-oxford",
+    "dataset": "OXFORD COVID-19 Government Response Tracker(OxCGRT)"
   },
   {
     "feedback": "Neutral",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "blavatnik-school-of-government-university-of-oxford",
-    "dataset": ""
+    "dataset": "OXFORD COVID-19 Government Response Tracker(OxCGRT)"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "blavatnik-school-of-government-university-of-oxford",
+    "dataset": "OXFORD COVID-19 Government Response Tracker(OxCGRT)"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "ocha-roap",
+    "dataset": "Bangladesh administrative level 0-4 boundary polygons, lines, points, tabular data, and live services"
   },
   {
     "feedback": "Neutral",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "ocha-roap",
-    "dataset": ""
+    "dataset": "Bangladesh administrative level 0-4 boundary polygons, lines, points, tabular data, and live services"
   },
   {
     "feedback": "Positive",
@@ -606,35 +1222,77 @@
     "contact": "Yes",
     "affiliation": "International Organization",
     "organisation": "ocha-roap",
-    "dataset": ""
+    "dataset": "Bangladesh administrative level 0-4 boundary polygons, lines, points, tabular data, and live services"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "ocha-roap",
+    "dataset": "Bangladesh administrative level 0-4 boundary polygons, lines, points, tabular data, and live services"
   },
   {
     "feedback": "Neutral",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "ocha-romena",
-    "dataset": ""
+    "dataset": "Saudi Arabia - Administrative Boundaries (Levels 0-1), Populated Places"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Non-Profit Organization",
+    "organisation": "wfp",
+    "dataset": "Global railways (WFP SDI-T - Logistics Database)"
   },
   {
     "feedback": "Neutral",
     "contact": "Yes",
     "affiliation": "Private Sector",
     "organisation": "organização internacional para migração",
-    "dataset": ""
+    "dataset": "Mozambique - Settlement Shapefiles"
   },
   {
     "feedback": "Neutral",
     "contact": "Yes",
     "affiliation": "Private Sector",
     "organisation": "organização internacional para migração",
-    "dataset": ""
+    "dataset": "Mozambique - Settlement Shapefiles"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "international-organization-for-migration",
+    "dataset": "Mozambique - Settlement Shapefiles"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Non-Profit Organization",
+    "organisation": "reach-initiative",
+    "dataset": "REACH Syria market monitoring"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Private Sector",
+    "organisation": "wfp",
+    "dataset": "Nigeria - Food Prices"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "ugrc",
+    "dataset": "Uganda administrative boundaries"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "ugrc",
-    "dataset": ""
+    "dataset": "Uganda administrative boundaries"
   },
   {
     "feedback": "Positive",
@@ -662,7 +1320,7 @@
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "ocha-rosa",
-    "dataset": ""
+    "dataset": "Tanzania administrative level 0 - 3 boundaries"
   },
   {
     "feedback": "Positive",
@@ -677,13 +1335,27 @@
     "affiliation": "None / Personal Use",
     "organisation": "jhucsse",
     "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Non-Profit Organization",
+    "organisation": "ocha-rosa",
+    "dataset": "Tanzania administrative level 0 - 3 boundaries"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "hdx",
+    "dataset": "Nepal Census 2011 District Profiles (Demography)"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "International Organization",
     "organisation": "wfp",
-    "dataset": ""
+    "dataset": "Ethiopia Elevation"
   },
   {
     "feedback": "Positive",
@@ -698,6 +1370,20 @@
     "affiliation": "None / Personal Use",
     "organisation": "jhucsse",
     "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "ocha-sudan",
+    "dataset": "Simple, Spatial,Survey Method (S3M II) for Sudan - 2018"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Government",
+    "organisation": "ocha-iraq",
+    "dataset": "Iraq administrative level 0-3 boundaries"
   },
   {
     "feedback": "Positive",
@@ -711,21 +1397,28 @@
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "ocha-iraq",
-    "dataset": ""
+    "dataset": "Iraq administrative level 0-3 boundaries"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "ocha-iraq",
-    "dataset": ""
+    "dataset": "Iraq administrative level 0-3 boundaries"
   },
   {
     "feedback": "Neutral",
     "contact": "No",
     "affiliation": "Government",
     "organisation": "international-displacement-monitoring-centre-idmc",
-    "dataset": ""
+    "dataset": "Venezuela (Bolivarian Republic of) - Internally displaced persons - IDPs"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Non-Profit Organization",
+    "organisation": "ocha-dr-congo",
+    "dataset": "RD Congo : Présence Opérationnelle"
   },
   {
     "feedback": "Negative",
@@ -740,34 +1433,48 @@
     "affiliation": "None / Personal Use",
     "organisation": "jhucsse",
     "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "hdx",
+    "dataset": "Nepal Census 2011 District Profiles (Demography)"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Non-Profit Organization",
     "organisation": "international-organization-for-migration",
-    "dataset": ""
+    "dataset": "Nigeria Displacement - [IDPs] - Baseline Assessment [IOM DTM]"
   },
   {
     "feedback": "Positive",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "wfp",
-    "dataset": ""
+    "dataset": "Cyclone Amphan flood detected water for Bangladesh and India"
   },
   {
     "feedback": "Neutral",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "world-health-organization",
-    "dataset": ""
+    "dataset": "Climate Change Attributable Deaths"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Blank / Invalid Response",
+    "organisation": "care-bangladesh",
+    "dataset": "Bangladesh: District Wise Quarantine for COVID-19"
   },
   {
     "feedback": "Neutral",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "care-bangladesh",
-    "dataset": ""
+    "dataset": "Bangladesh: District Wise Quarantine for COVID-20"
   },
   {
     "feedback": "Very Positive",
@@ -777,7 +1484,35 @@
     "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "care-bangladesh",
+    "dataset": "Bangladesh: District Wise Quarantine for COVID-21"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "care-bangladesh",
+    "dataset": "Bangladesh: District Wise Quarantine for COVID-22"
+  },
+  {
     "feedback": "Positive",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Private Sector",
+    "organisation": "international-organization-for-migration",
+    "dataset": "Ethiopia Displacement -IDPs - Site Assessment [IOM DTM]"
+  },
+  {
+    "feedback": "NA",
     "contact": "No",
     "affiliation": "None / Personal Use",
     "organisation": "jhucsse",
@@ -791,11 +1526,25 @@
     "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "international-organization-for-migration",
+    "dataset": "Ethiopia Displacement -IDPs - Site Assessment [IOM DTM]"
+  },
+  {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "International Organization",
     "organisation": "healthsites",
-    "dataset": ""
+    "dataset": "Colombia-healthsites"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Private Sector",
+    "organisation": "ocha-roap",
+    "dataset": "Indonesia: Coronavirus(COVID-19) Subnational Cases"
   },
   {
     "feedback": "Positive",
@@ -809,21 +1558,42 @@
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "ocha-roap",
-    "dataset": ""
+    "dataset": "Indonesia: Coronavirus(COVID-19) Subnational Cases"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "ocha-roap",
+    "dataset": "Indonesia: Coronavirus(COVID-19) Subnational Cases"
   },
   {
     "feedback": "Very Positive",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "ocha-rosea",
-    "dataset": ""
+    "dataset": "Kenya Admin Boundaries - Election Polling stations"
   },
   {
     "feedback": "Very Positive",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "ocha-rosea",
-    "dataset": ""
+    "dataset": "Kenya Admin Boundaries - Election Polling stations"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Blank / Invalid Response",
+    "organisation": "ocha-rosea",
+    "dataset": "Kenya Admin Boundaries - Election Polling stations"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "world-bank-group",
+    "dataset": "Yemen, Rep. - Private Sector"
   },
   {
     "feedback": "Very Positive",
@@ -837,7 +1607,7 @@
     "contact": "Yes",
     "affiliation": "International Organization",
     "organisation": "ocha-ethiopia",
-    "dataset": ""
+    "dataset": "Ethiopia - Cities, towns and villages"
   },
   {
     "feedback": "Positive",
@@ -851,14 +1621,42 @@
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "ocha-ethiopia",
-    "dataset": ""
+    "dataset": "Ethiopia - Cities, towns and villages"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "wfp",
+    "dataset": "Global Food Prices Database (WFP)"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "wfp",
+    "dataset": "Global Food Prices Database (WFP)"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Non-Profit Organization",
     "organisation": "wfp",
-    "dataset": ""
+    "dataset": "Global Food Prices Database (WFP)"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "wfp",
+    "dataset": "Global Food Prices Database (WFP)"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
@@ -868,11 +1666,32 @@
     "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "International Organization",
+    "organisation": "wfp",
+    "dataset": "Global Food Prices Database (WFP)"
+  },
+  {
     "feedback": "Negative",
     "contact": "No",
     "affiliation": "None / Personal Use",
     "organisation": "jhucsse",
     "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "wfp",
+    "dataset": "Global Food Prices Database (WFP)"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "hdx",
+    "dataset": "Nepal Census 2011 District Profiles (Demography)"
   },
   {
     "feedback": "Negative",
@@ -886,7 +1705,7 @@
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "wfp",
-    "dataset": ""
+    "dataset": "Global Food Prices Database (WFP)"
   },
   {
     "feedback": "Neutral",
@@ -908,6 +1727,48 @@
     "affiliation": "None / Personal Use",
     "organisation": "jhucsse",
     "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "International Organization",
+    "organisation": "wfp",
+    "dataset": "Global Food Prices Database (WFP)"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Non-Profit Organization",
+    "organisation": "facebook",
+    "dataset": "Electrical Distribution Grid Maps"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "ocha-rolac",
+    "dataset": "Colombia administrative level 0 - 2 boundaries"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Government",
+    "organisation": "hot",
+    "dataset": "HOTOSM Zimbabwe Roads (OpenStreetMap Export)"
   },
   {
     "feedback": "Negative",
@@ -921,91 +1782,154 @@
     "contact": "No",
     "affiliation": "Non-Profit Organization",
     "organisation": "ocha-rosa",
-    "dataset": ""
+    "dataset": "Namibia - Subnational Administrative Boundaries"
   },
   {
     "feedback": "Neutral",
     "contact": "No",
     "affiliation": "Non-Profit Organization",
     "organisation": "ocha-south-sudan",
-    "dataset": ""
+    "dataset": "South Sudan administrative levels 0-2 2020 population estimates"
   },
   {
     "feedback": "Positive",
     "contact": "Yes",
     "affiliation": "International Organization",
     "organisation": "fsnwg",
-    "dataset": ""
+    "dataset": "Food Security Data in West & Central Africa: Cadre Harmonise (CH) and Integrated Food Security Phase Classification (IPC) data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "ocha-roap",
+    "dataset": "Indonesia - Health Facilities"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Negative",
     "contact": "No",
     "affiliation": "Non-Profit Organization",
     "organisation": "ocha-fts",
-    "dataset": ""
+    "dataset": "Burkina Faso - Requirements and Funding Data"
   },
   {
     "feedback": "Positive",
     "contact": "Yes",
     "affiliation": "Government",
     "organisation": "ocha-roap",
-    "dataset": ""
+    "dataset": "Solomon Islands administrative level 0, 1, 2, and 3 population statistics"
   },
   {
     "feedback": "Neutral",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "ocha-rosea",
-    "dataset": ""
+    "dataset": "Lesotho administrative level 0 - 2 boundaries"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Non-Profit Organization",
+    "organisation": "ocha-romena",
+    "dataset": "Lebanon Administrative Boundaries (levels 0-3)"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Media / News",
+    "organisation": "ocha-romena",
+    "dataset": "Lebanon Administrative Boundaries (levels 0-3)"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "facebook",
-    "dataset": ""
+    "dataset": "Costa Rica: High Resolution Population Density Maps + Demographic Estimates"
   },
   {
     "feedback": "Positive",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "unhcr",
-    "dataset": ""
+    "dataset": "UNHCR Global Trends: Forced Displacement in 2018 Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Non-Profit Organization",
+    "organisation": "international-displacement-monitoring-centre-idmc",
+    "dataset": "Indonesia - Internally displaced persons - IDPs"
   },
   {
     "feedback": "Neutral",
     "contact": "Yes",
     "affiliation": "International Organization",
     "organisation": "ocha-rosea",
-    "dataset": ""
+    "dataset": "Kenya - Settlements"
   },
   {
     "feedback": "Negative",
     "contact": "No",
     "affiliation": "Private Sector",
     "organisation": "ocha-philippines",
-    "dataset": ""
+    "dataset": "Philippines - Subnational Population Statistics"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "un-ocha",
+    "dataset": "Covid-19 Economic Exposure Index"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Government",
     "organisation": "ocha-fiss",
-    "dataset": ""
+    "dataset": "Venezuela administrative level 0, 1, 2, and 3 boundaries and gazeteer."
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "ocha-fiss",
+    "dataset": "Venezuela administrative level 0, 1, 2, and 3 boundaries and gazeteer."
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Negative",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "backuprural",
-    "dataset": ""
+    "dataset": "Africa COVID19 Infected, Recovered and Deceased"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Non-Profit Organization",
+    "organisation": "backuprural",
+    "dataset": "Africa COVID19 Infected, Recovered and Deceased"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "ocha-fiss",
-    "dataset": ""
+    "dataset": "Venezuela administrative level 0, 1, 2, and 3 population statistics and gazeteer"
   },
   {
     "feedback": "Positive",
@@ -1019,7 +1943,7 @@
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Negative",
@@ -1033,14 +1957,35 @@
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Neutral",
     "contact": "Yes",
     "affiliation": "Non-Profit Organization",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
@@ -1054,47 +1999,54 @@
     "contact": "No",
     "affiliation": "International Organization",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Very Positive",
     "contact": "No",
     "affiliation": "International Organization",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Very Positive",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Very Positive",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Non-Profit Organization",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Negative",
     "contact": "No",
     "affiliation": "None / Personal Use",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
     "organisation": "jhucsse",
     "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
@@ -1110,28 +2062,35 @@
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Media / News",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Negative",
     "contact": "No",
     "affiliation": "Non-Profit Organization",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Healthcare",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Negative",
     "contact": "Yes",
     "affiliation": "Government",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
@@ -1141,39 +2100,46 @@
     "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
     "feedback": "Very Positive",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "International Organization",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Very Positive",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Negative",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Very Positive",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Neutral",
@@ -1187,21 +2153,49 @@
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Non-Profit Organization",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
@@ -1222,14 +2216,28 @@
     "contact": "Yes",
     "affiliation": "Private Sector",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Negative",
     "contact": "No",
     "affiliation": "Private Sector",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Private Sector",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
@@ -1250,7 +2258,7 @@
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
@@ -1264,14 +2272,14 @@
     "contact": "Yes",
     "affiliation": "Healthcare",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
     "contact": "Yes",
     "affiliation": "Private Sector",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Negative",
@@ -1292,28 +2300,35 @@
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Negative",
     "contact": "No",
     "affiliation": "Private Sector",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Negative",
     "contact": "No",
     "affiliation": "Private Sector",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "hot",
+    "dataset": "HOTOSM Uganda Buildings (OpenStreetMap Export)"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Private Sector",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Negative",
@@ -1327,7 +2342,21 @@
     "contact": "Yes",
     "affiliation": "Private Sector",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Media / News",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Neutral",
@@ -1341,14 +2370,14 @@
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Private Sector",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Negative",
@@ -1362,21 +2391,21 @@
     "contact": "No",
     "affiliation": "Private Sector",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Very Positive",
     "contact": "Yes",
     "affiliation": "Private Sector",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Government",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Very Negative",
@@ -1393,11 +2422,18 @@
     "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Media / News",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
@@ -1411,10 +2447,17 @@
     "contact": "No",
     "affiliation": "Private Sector",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
     "contact": "No",
     "affiliation": "None / Personal Use",
     "organisation": "jhucsse",
@@ -1425,21 +2468,42 @@
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Neutral",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "hdx",
+    "dataset": "Philippines - Conflict Data"
   },
   {
     "feedback": "Negative",
     "contact": "Yes",
     "affiliation": "Media / News",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Very Negative",
@@ -1453,7 +2517,7 @@
     "contact": "Yes",
     "affiliation": "Healthcare",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
@@ -1463,74 +2527,130 @@
     "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Private Sector",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Negative",
     "contact": "No",
     "affiliation": "Private Sector",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Neutral",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Private Sector",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
     "contact": "Yes",
     "affiliation": "Healthcare",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Negative",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
@@ -1543,6 +2663,13 @@
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "None / Personal Use",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Private Sector",
     "organisation": "jhucsse",
     "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
@@ -1551,7 +2678,7 @@
     "contact": "No",
     "affiliation": "Private Sector",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
@@ -1565,21 +2692,21 @@
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "International Organization",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Neutral",
     "contact": "No",
     "affiliation": "Blank / Invalid Response",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Neutral",
@@ -1593,7 +2720,7 @@
     "contact": "No",
     "affiliation": "Non-Profit Organization",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Neutral",
@@ -1607,7 +2734,7 @@
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
@@ -1621,40 +2748,61 @@
     "contact": "No",
     "affiliation": "Blank / Invalid Response",
     "organisation": "same",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
     "contact": "Yes",
     "affiliation": "Private Sector",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Blank / Invalid Response",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Non-Profit Organization",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Private Sector",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Government",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Negative",
     "contact": "No",
     "affiliation": "None / Personal Use",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
     "organisation": "jhucsse",
     "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
@@ -1673,46 +2821,81 @@
     "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
     "feedback": "Negative",
     "contact": "No",
     "affiliation": "Private Sector",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Healthcare",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Private Sector",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "hdx",
+    "dataset": "Nepal Digital Model Elevation (DEM)"
   },
   {
     "feedback": "Positive",
     "contact": "Yes",
     "affiliation": "Private Sector",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Blank / Invalid Response",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Negative",
     "contact": "No",
     "affiliation": "Blank / Invalid Response",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Neutral",
     "contact": "Yes",
     "affiliation": "Private Sector",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Neutral",
@@ -1729,18 +2912,39 @@
     "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "International Organization",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Private Sector",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Negative",
     "contact": "No",
     "affiliation": "Healthcare",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
@@ -1754,21 +2958,35 @@
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Private Sector",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
@@ -1782,7 +3000,14 @@
     "contact": "Yes",
     "affiliation": "Non-Profit Organization",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Private Sector",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
@@ -1792,14 +3017,35 @@
     "dataset": "Financial Times - Excess mortality during COVID-19 pandemic"
   },
   {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
     "feedback": "Positive",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Private Sector",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
     "contact": "No",
     "affiliation": "None / Personal Use",
     "organisation": "jhucsse",
@@ -1813,11 +3059,18 @@
     "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Government",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Negative",
@@ -1838,25 +3091,60 @@
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Private Sector",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Private Sector",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
     "contact": "Yes",
+    "affiliation": "None / Personal Use",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
     "affiliation": "None / Personal Use",
     "organisation": "jhucsse",
     "dataset": "Novel Coronavirus (COVID-19) Cases Data"
@@ -1873,21 +3161,35 @@
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Negative",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Very Positive",
     "contact": "No",
     "affiliation": "Private Sector",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
@@ -1901,35 +3203,35 @@
     "contact": "No",
     "affiliation": "Private Sector",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Negative",
     "contact": "No",
     "affiliation": "Private Sector",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Private Sector",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Private Sector",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
@@ -1943,35 +3245,91 @@
     "contact": "No",
     "affiliation": "International Organization",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Neutral",
     "contact": "No",
     "affiliation": "Private Sector",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Private Sector",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "International Organization",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Neutral",
     "contact": "Yes",
     "affiliation": "Blank / Invalid Response",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Private Sector",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
@@ -1985,35 +3343,42 @@
     "contact": "No",
     "affiliation": "Private Sector",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Neutral",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Private Sector",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Blank / Invalid Response",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
@@ -2023,11 +3388,25 @@
     "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
     "feedback": "Positive",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
@@ -2048,56 +3427,161 @@
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Private Sector",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Media / News",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Private Sector",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "hdx",
+    "dataset": "India - Conflict Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
     "contact": "Yes",
     "affiliation": "Private Sector",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Private Sector",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "International Organization",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Neutral",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Media / News",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Healthcare",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Neutral",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "hdx",
+    "dataset": "Central Nepal Digital Elevation Model (DEM)"
   },
   {
     "feedback": "Negative",
@@ -2107,23 +3591,58 @@
     "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Government",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
     "feedback": "Positive",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Non-Profit Organization",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "None / Personal Use",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Neutral",
     "contact": "No",
     "affiliation": "Blank / Invalid Response",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Very Positive",
     "contact": "No",
     "affiliation": "None / Personal Use",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
     "organisation": "jhucsse",
     "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
@@ -2132,7 +3651,7 @@
     "contact": "Yes",
     "affiliation": "Media / News",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
@@ -2146,35 +3665,42 @@
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Neutral",
     "contact": "No",
     "affiliation": "Blank / Invalid Response",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Negative",
     "contact": "No",
     "affiliation": "Blank / Invalid Response",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "hdx",
+    "dataset": "Afghanistan - Conflict Data"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Negative",
@@ -2188,91 +3714,238 @@
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "hdx",
+    "dataset": "Myanmar: Coronavirus(COVID-19) Subnational Cases"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "jhucsse",
-    "dataset": ""
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Neutral",
     "contact": "No",
     "affiliation": "Non-Profit Organization",
     "organisation": "ocha-rosea",
-    "dataset": ""
+    "dataset": "Mozambique administrative level 0 (country), 1 (province), 2 (district) and 3 (posto) boundaries"
   },
   {
     "feedback": "Neutral",
     "contact": "Yes",
     "affiliation": "Private Sector",
     "organisation": "ocha-rosea",
-    "dataset": ""
+    "dataset": "Mozambique administrative level 0 (country), 1 (province), 2 (district) and 3 (posto) boundaries"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Private Sector",
+    "organisation": "ocha-rosea",
+    "dataset": "Mozambique administrative level 0 (country), 1 (province), 2 (district) and 3 (posto) boundaries"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Private Sector",
+    "organisation": "ocha-rosea",
+    "dataset": "Mozambique administrative level 0 (country), 1 (province), 2 (district) and 3 (posto) boundaries"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Private Sector",
+    "organisation": "ocha-rosea",
+    "dataset": "Mozambique administrative level 0 (country), 1 (province), 2 (district) and 3 (posto) boundaries"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "International Organization",
+    "organisation": "ocha-mali",
+    "dataset": "Mali Health Districts"
   },
   {
     "feedback": "Neutral",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "world-health-organization",
-    "dataset": ""
+    "dataset": "United Republic of Tanzania - Health Indicators"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "undp-human-development-reports-office",
+    "dataset": "Saudi Arabia - Human Development Indicators"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "International Organization",
+    "organisation": "ocha-nigeria",
+    "dataset": "Nigeria - Settlements"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "International Organization",
+    "organisation": "ocha-rolac",
+    "dataset": "Honduras - Subnational Population Statistics"
   },
   {
     "feedback": "Negative",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "dhs",
-    "dataset": ""
+    "dataset": "Tunisia - National Demographic and Health Data"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Non-Profit Organization",
     "organisation": "ocha-rowca",
-    "dataset": ""
+    "dataset": "Sierra Leone administrative levels 0-3 sex-disaggregated population statistics"
   },
   {
     "feedback": "Positive",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "",
-    "dataset": ""
+    "dataset": "Bolivia: High Resolution Population Density Maps + Demographic Estimates"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Non-Profit Organization",
+    "organisation": "unhcr",
+    "dataset": "Demographics for UNHCR's populations of concern residing in Poland"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "facebook",
+    "dataset": "Mexico: High Resolution Population Density Maps + Demographic Estimates"
   },
   {
     "feedback": "Neutral",
     "contact": "No",
     "affiliation": "Private Sector",
     "organisation": "ocha-rocca",
-    "dataset": ""
+    "dataset": "Uzbekistan - Subnational Administrative Boundaries"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "ocha-nepal",
+    "dataset": "Nepal health facilities"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Media / News",
+    "organisation": "kenya-national-bureau-of-statistics",
+    "dataset": "Kenya: Distribution of Population Age 3 years and Above by school attendance status per sub county"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "open-crisis",
-    "dataset": ""
+    "dataset": "Bounding boxes for countries"
   },
   {
     "feedback": "Neutral",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "unesco",
-    "dataset": ""
+    "dataset": "Global School Closures COVID-19"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "ocha-philippines",
+    "dataset": "Philippines : COVID-19 Operational Presence Risk Communication and Community Engagement (RCCE)"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "facebook",
+    "dataset": "Ethiopia: High Resolution Population Density Maps + Demographic Estimates"
   },
   {
     "feedback": "Positive",
     "contact": "Yes",
     "affiliation": "Non-Profit Organization",
     "organisation": "ocha-yemen",
-    "dataset": ""
+    "dataset": "Yemen - Administrative Boundaries"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Private Sector",
     "organisation": "ocha-burundi",
-    "dataset": ""
+    "dataset": "Burundi Admin boundaries"
   },
   {
     "feedback": "Negative",
@@ -2280,27 +3953,41 @@
     "affiliation": "None / Personal Use",
     "organisation": "jhucsse",
     "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "ocha-rowca",
+    "dataset": "Gabon - Settlements"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "ocha-somalia",
+    "dataset": "Somalia Population Data -UNFPA 2014"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Private Sector",
     "organisation": "worldpop",
-    "dataset": ""
+    "dataset": "Thailand - Population Counts"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Blank / Invalid Response",
     "organisation": "ocha-rosea",
-    "dataset": ""
+    "dataset": "Uganda - Subnational Administrative Boundaries"
   },
   {
     "feedback": "Very Positive",
     "contact": "No",
     "affiliation": "International Organization",
     "organisation": "ocha-rosea",
-    "dataset": ""
+    "dataset": "Uganda - Subnational Administrative Boundaries"
   },
   {
     "feedback": "Positive",
@@ -2308,13 +3995,55 @@
     "affiliation": "None / Personal Use",
     "organisation": "jhucsse",
     "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Non-Profit Organization",
+    "organisation": "ocha-rosea",
+    "dataset": "Uganda - Subnational Administrative Boundaries"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Non-Profit Organization",
+    "organisation": "ocha-rosea",
+    "dataset": "Uganda - Subnational Administrative Boundaries"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Non-Profit Organization",
+    "organisation": "un-operational-satellite-appplications-programme-unosat",
+    "dataset": "Geodata of Update: Al Zaatari Refugee Camp, Mafraq Governorate, Jordan"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "ocha-rolac",
+    "dataset": "Chile - Subnational Administrative Boundaries"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "ocha-rolac",
+    "dataset": "Chile - Subnational Administrative Boundaries"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Non-Profit Organization",
     "organisation": "ocha-nigeria",
-    "dataset": ""
+    "dataset": "Nigeria - Water Courses(Rivers)"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "ocha-nigeria",
+    "dataset": "Nigeria - Water Courses(Rivers)"
   },
   {
     "feedback": "Positive",
@@ -2331,60 +4060,123 @@
     "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
-    "feedback": "Positive",
+    "feedback": "NA",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
-    "organisation": "wfp",
-    "dataset": ""
+    "organisation": "ocha-nigeria",
+    "dataset": "Nigeria - Water Courses(Rivers)"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "International Organization",
+    "organisation": "ocha-roap",
+    "dataset": "Cambodia administrative level 0-3 boundaries"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "International Organization",
+    "organisation": "ocha-roap",
+    "dataset": "Cambodia administrative level 0-3 boundaries"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "wfp",
-    "dataset": ""
+    "dataset": "ICA Zimbabwe - Flood Risk"
+  },
+  {
+    "feedback": "Positive",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "wfp",
+    "dataset": "ICA Zimbabwe - Flood Risk"
   },
   {
     "feedback": "Negative",
     "contact": "Yes",
     "affiliation": "International Organization",
     "organisation": "ocha-rowca",
-    "dataset": ""
+    "dataset": "Congo - Administrative Boundaries"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Blank / Invalid Response",
+    "organisation": "reach-initiative",
+    "dataset": "COX'S Bazar District - Teknaf and Ukhia Upazila Para and Ward Locations"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "reach-initiative",
+    "dataset": "COX'S Bazar District - Teknaf and Ukhia Upazila Para and Ward Locations"
   },
   {
     "feedback": "Positive",
     "contact": "Yes",
     "affiliation": "International Organization",
     "organisation": "wfp",
-    "dataset": ""
+    "dataset": "Senegal - Food Prices"
   },
   {
     "feedback": "Neutral",
     "contact": "Yes",
     "affiliation": "Private Sector",
     "organisation": "wfp",
-    "dataset": ""
+    "dataset": "Guinea Road Network (main roads)"
   },
   {
-    "feedback": "Neutral",
+    "feedback": "NA",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
-    "organisation": "world-health-organization 세계 보건기구",
-    "dataset": ""
+    "organisation": "unhabitat-guo",
+    "dataset": "Green area per capita (square meters per capita)"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "unhabitat-guo",
+    "dataset": "Green area per capita (square meters per capita)"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "facebook",
+    "dataset": "Germany: High Resolution Population Density Maps + Demographic Estimates"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "itos",
+    "dataset": "Indonesian Capital Cities"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Non-Profit Organization",
     "organisation": "ocha-romena",
-    "dataset": ""
+    "dataset": "Morocco - Subnational Boundaries"
   },
   {
     "feedback": "Neutral",
     "contact": "Yes",
     "affiliation": "International Organization",
     "organisation": "ocha-cameroon",
-    "dataset": ""
+    "dataset": "Cameroon: Operational Presence"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Private Sector",
+    "organisation": "ocha-yemen",
+    "dataset": "Yemen : Humanitarian Needs Overview"
   },
   {
     "feedback": "Negative",
@@ -2405,49 +4197,77 @@
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "ocha-nigeria",
-    "dataset": ""
+    "dataset": "Nigeria - Administrative Boundaries (levels 0 - 3) and senatorial districts"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Healthcare",
+    "organisation": "ocha-nigeria",
+    "dataset": "Nigeria - Administrative Boundaries (levels 0 - 3) and senatorial districts"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Non-Profit Organization",
+    "organisation": "ocha-nigeria",
+    "dataset": "Nigeria - Administrative Boundaries (levels 0 - 3) and senatorial districts"
   },
   {
     "feedback": "Neutral",
     "contact": "Yes",
     "affiliation": "International Organization",
     "organisation": "acaps",
-    "dataset": ""
+    "dataset": "INFORM Severity Index"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "ocha-nigeria",
+    "dataset": "Nigeria - Roads"
   },
   {
     "feedback": "Very Positive",
     "contact": "No",
     "affiliation": "International Organization",
     "organisation": "ocha-nigeria",
-    "dataset": ""
+    "dataset": "Nigeria - Roads"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "ocha-roap",
+    "dataset": "Indonesia administrative level 0-4 boundaries"
   },
   {
     "feedback": "Very Positive",
     "contact": "No",
     "affiliation": "International Organization",
     "organisation": "ocha-roap",
-    "dataset": ""
+    "dataset": "Indonesia administrative level 0-4 boundaries"
   },
   {
     "feedback": "Neutral",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "ocha-roap",
-    "dataset": ""
+    "dataset": "Indonesia administrative level 0-4 boundaries"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "ocha-roap",
-    "dataset": ""
+    "dataset": "Indonesia administrative level 0-4 boundaries"
   },
   {
     "feedback": "Positive",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "ocha-roap",
-    "dataset": ""
+    "dataset": "Indonesia administrative level 0-4 boundaries"
   },
   {
     "feedback": "Positive",
@@ -2468,42 +4288,56 @@
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "ocha-roap",
-    "dataset": ""
+    "dataset": "Indonesia administrative level 0-4 boundaries"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "ocha-roap",
-    "dataset": ""
+    "dataset": "Indonesia administrative level 0-4 boundaries"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Blank / Invalid Response",
+    "organisation": "ocha-afghanistan",
+    "dataset": "Afghanistan - Subnational Administrative Boundaries"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "acled",
+    "dataset": "Democratic Republic of the Congo - Conflict Data"
   },
   {
     "feedback": "Neutral",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "ocha-colombia",
-    "dataset": ""
+    "dataset": "Colombia administrative level 0-2 2020 projected population statistics"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "International Organization",
     "organisation": "ocha-roap",
-    "dataset": ""
+    "dataset": "Marshall Islands administrative level 0-2 population statistics"
   },
   {
     "feedback": "Positive",
     "contact": "Yes",
     "affiliation": "International Organization",
     "organisation": "un-ocha",
-    "dataset": ""
+    "dataset": "Humanitarian Access Constraints due to COVID-19 Pandemic"
   },
   {
     "feedback": "Neutral",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "unidad-estrategia-digital-nacional-en-la-oficina-del-presidente-de-mexico",
-    "dataset": ""
+    "dataset": "Mexico - Inundaciones"
   },
   {
     "feedback": "Negative",
@@ -2517,14 +4351,63 @@
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "ocha-south-sudan",
-    "dataset": ""
+    "dataset": "South Sudan - Water Bodies"
   },
   {
     "feedback": "Neutral",
     "contact": "No",
     "affiliation": "Private Sector",
     "organisation": "mimu",
-    "dataset": ""
+    "dataset": "Village Points Magway Region PCode v9.2.1"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "world-bank-group",
+    "dataset": "Guatemala - Poverty"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "world-bank-group",
+    "dataset": "Vietnam - Economic, Social, Environmental, Health, Education, Development and Energy"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "facebook",
+    "dataset": "Future Of Business Survey - Aggregated Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "hot",
+    "dataset": "HOTOSM Colombia Roads (OpenStreetMap Export)"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Non-Profit Organization",
+    "organisation": "facebook",
+    "dataset": "Future Of Business Survey - Aggregated Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "facebook",
+    "dataset": "Future Of Business Survey - Aggregated Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "facebook",
+    "dataset": "Future Of Business Survey - Aggregated Data"
   },
   {
     "feedback": "Positive",
@@ -2538,35 +4421,98 @@
     "contact": "No",
     "affiliation": "Government",
     "organisation": "ocha-dr-congo",
-    "dataset": ""
+    "dataset": "RDC - Statistiques des populations par zones de santé"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "ocha-dr-congo",
+    "dataset": "RDC - Statistiques des populations par zones de santé"
   },
   {
     "feedback": "Positive",
     "contact": "Yes",
     "affiliation": "International Organization",
     "organisation": "ocha-rowca",
-    "dataset": ""
+    "dataset": "Sahel - Administrative boundaries and settlements"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "wfp",
+    "dataset": "Indonesia administrative boundary 2017"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "facebook",
+    "dataset": "Iraq: High Resolution Population Density Maps + Demographic Estimates"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "olds",
+    "dataset": "Venezuelan Migration in the Americas and Spain"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "international-organization-for-migration",
+    "dataset": "DRC Displacement Data - Ituri Province - Baseline Assessment [IOM DTM]"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "International Organization",
     "organisation": "ocha-iraq",
-    "dataset": ""
+    "dataset": "Iraq - Roads Network"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
     "contact": "Yes",
     "affiliation": "Non-Profit Organization",
     "organisation": "hxl",
-    "dataset": ""
+    "dataset": "HXL master vocabulary list"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "world-health-organization",
+    "dataset": "Malawi - Health Indicators"
   },
   {
     "feedback": "Neutral",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "united-nations-office-for-disaster-risk-reduction-unisdr",
-    "dataset": ""
+    "dataset": "Global cyclone tracks"
   },
   {
     "feedback": "Negative",
@@ -2580,14 +4526,14 @@
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "insecurity-insight",
-    "dataset": ""
+    "dataset": "Aid Security and COVID-19"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Government",
     "organisation": "insecurity-insight",
-    "dataset": ""
+    "dataset": "Aid Security and COVID-20"
   },
   {
     "feedback": "Positive",
@@ -2597,11 +4543,46 @@
     "dataset": "Total COVID-19 Tests Performed by Country"
   },
   {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "International Organization",
+    "organisation": "insecurity-insight",
+    "dataset": "Aid Security and COVID-21"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "International Organization",
+    "organisation": "insecurity-insight",
+    "dataset": "Aid Security and COVID-22"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "world-health-organization",
+    "dataset": "Coronavirus (COVID-19) Cases and Deaths"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Non-Profit Organization",
+    "organisation": "world-health-organization",
+    "dataset": "Coronavirus (COVID-19) Cases and Deaths"
+  },
+  {
     "feedback": "Neutral",
     "contact": "No",
     "affiliation": "Blank / Invalid Response",
     "organisation": "world-health-organization",
-    "dataset": ""
+    "dataset": "Coronavirus (COVID-19) Cases and Deaths"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "world-health-organization",
+    "dataset": "Coronavirus (COVID-19) Cases and Deaths"
   },
   {
     "feedback": "Very Positive",
@@ -2618,11 +4599,18 @@
     "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "world-health-organization",
+    "dataset": "Coronavirus (COVID-19) Cases and Deaths"
+  },
+  {
     "feedback": "Neutral",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "world-health-organization",
-    "dataset": ""
+    "dataset": "Coronavirus (COVID-19) Cases and Deaths"
   },
   {
     "feedback": "Positive",
@@ -2643,21 +4631,42 @@
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "world-health-organization",
-    "dataset": ""
+    "dataset": "Coronavirus (COVID-19) Cases and Deaths"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "jhucsse",
+    "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "world-health-organization",
-    "dataset": ""
+    "dataset": "Coronavirus (COVID-19) Cases and Deaths"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "ocha-philippines",
+    "dataset": "Philippines - Buildings, transport and Land use"
   },
   {
     "feedback": "Positive",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "ocha-rosea",
-    "dataset": ""
+    "dataset": "Kenya - Railways Network"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Non-Profit Organization",
+    "organisation": "ocha-mozambique-hat",
+    "dataset": "Mozambique Population by Administrative Post"
   },
   {
     "feedback": "Negative",
@@ -2674,88 +4683,151 @@
     "dataset": "Novel Coronavirus (COVID-19) Cases Data"
   },
   {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Non-Profit Organization",
+    "organisation": "mimu",
+    "dataset": "Ward boundaries Yangon City_mimu_v9.2.0"
+  },
+  {
     "feedback": "Neutral",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "ocha-rolac",
-    "dataset": ""
+    "dataset": "Mexico - Subnational Administrative Boundaries"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "ocha-rolac",
-    "dataset": ""
+    "dataset": "Mexico - Subnational Administrative Boundaries"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "ocha-rolac",
-    "dataset": ""
+    "dataset": "Mexico - Subnational Administrative Boundaries"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Private Sector",
     "organisation": "ocha-rolac",
-    "dataset": ""
+    "dataset": "Mexico - Subnational Administrative Boundaries"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "ocha-rolac",
+    "dataset": "Mexico - Subnational Administrative Boundaries"
   },
   {
     "feedback": "Neutral",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "ocha-rolac",
-    "dataset": ""
+    "dataset": "Mexico - Subnational Administrative Boundaries"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Non-Profit Organization",
+    "organisation": "wfp",
+    "dataset": "Yemen - Food Prices"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "ocha-rosa",
-    "dataset": ""
+    "dataset": "Zimbabwe - Elevation Model"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "ocha-rosea",
+    "dataset": "Kenya - Water Bodies (Lakes)"
   },
   {
     "feedback": "Very Positive",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "worldpop",
-    "dataset": ""
+    "dataset": "Kenya - Population Counts"
   },
   {
     "feedback": "Very Positive",
     "contact": "No",
     "affiliation": "Non-Profit Organization",
     "organisation": "acled",
-    "dataset": ""
+    "dataset": "Somalia - Conflict Data"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "ocha-ukraine",
-    "dataset": ""
+    "dataset": "Ukraine administrative level 0, 1, 2, 3 and 4 boundaries"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "undp-human-development-reports-office",
-    "dataset": ""
+    "dataset": "Venezuela (Bolivarian Republic of) - Human Development Indicators"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Private Sector",
+    "organisation": "ocha-yemen",
+    "dataset": "Yemen - Health"
   },
   {
     "feedback": "Neutral",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "unicef-data",
-    "dataset": ""
+    "dataset": "Percentage of surviving infants who received the first dose of inactivated polio-containing vaccine"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Blank / Invalid Response",
+    "organisation": "world-bank-group",
+    "dataset": "Myanmar - Health"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "ocha-nigeria",
+    "dataset": "Nigeria - Settlements"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "ocha-rowca",
+    "dataset": "Sierra Leone administrative level 0-4 boundaries"
   },
   {
     "feedback": "Negative",
     "contact": "No",
     "affiliation": "Private Sector",
     "organisation": "ocha-rowca",
-    "dataset": ""
+    "dataset": "Sierra Leone administrative level 0-4 boundaries"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "International Organization",
+    "organisation": "ocha-rowca",
+    "dataset": "Sierra Leone administrative level 0-4 boundaries"
   },
   {
     "feedback": "Neutral",
@@ -2765,39 +4837,137 @@
     "dataset": "Mexico: High Resolution Population Density Maps + Demographic Estimates"
   },
   {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "ocha-fts",
+    "dataset": "Korea, Democratic People's Republic of - Requirements and Funding Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "International Organization",
+    "organisation": "inform",
+    "dataset": "INFORM COVID-19 Risk Index Version 0.1.2"
+  },
+  {
     "feedback": "Neutral",
     "contact": "No",
     "affiliation": "International Organization",
     "organisation": "ocha-yemen",
-    "dataset": ""
+    "dataset": "Yemen - Ports"
   },
   {
     "feedback": "Positive",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "fao",
-    "dataset": ""
+    "dataset": "Republic of Korea - Prices"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "ocha-fiss",
+    "dataset": "Pakistan administrative level 0, 1, 2, and 3 boundary polygons, lines, and central places"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "ocha-fiss",
+    "dataset": "Pakistan administrative level 0, 1, 2, and 3 boundary polygons, lines, and central places"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "ocha-fiss",
+    "dataset": "Pakistan administrative level 0, 1, 2, and 3 boundary polygons, lines, and central places"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "ocha-rosea",
+    "dataset": "Sudan administrative level 0-2 boundaries"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "ocha-rosa",
+    "dataset": "Sudan administrative level 0-2 boundaries"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "ocha-fiss",
+    "dataset": "Bahamas - Administrative Boundaries (Level 0, 1)"
   },
   {
     "feedback": "Neutral",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "unhabitat-guo",
-    "dataset": ""
+    "dataset": "World - City Prosperity Index, and the components of its 5 dimensions"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Non-Profit Organization",
     "organisation": "ocha-roap",
-    "dataset": ""
+    "dataset": "Mongolia administrative level 0-2 boundary polygons, lines and gazeteer"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Healthcare",
+    "organisation": "us-state-hiu",
+    "dataset": "World - Simplified Water Body Limits"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "gates-foundation",
+    "dataset": "Nigeria Admin Level 2"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "International Organization",
+    "organisation": "rimwg-e",
+    "dataset": "Turkey - Administrative Boundaries (Levels 0, 1, 2)"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "rimwg-e",
+    "dataset": "Turkey - Administrative Boundaries (Levels 0, 1, 2)"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "International Organization",
+    "organisation": "undp-human-development-reports-office",
+    "dataset": "El Salvador - Human Development Indicators"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Non-Profit Organization",
+    "organisation": "facebook",
+    "dataset": "acac1476-e6d9-4996-9324-04a3f406c7e8"
   },
   {
     "feedback": "Positive",
     "contact": "Yes",
     "affiliation": "International Organization",
     "organisation": "ocha-roap",
-    "dataset": ""
+    "dataset": "Fiji administrative level 0, 1, 2, and 3 boundary polygons"
   },
   {
     "feedback": "Positive",
@@ -2807,11 +4977,39 @@
     "dataset": "UNHCR Refugee Population Statistics"
   },
   {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "reach-initiative",
+    "dataset": "COX'S Bazar District - Teknaf and Ukhia Upazila Para and Ward Locations"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "world-health-organization",
+    "dataset": "Sierra Leone - Health Indicators"
+  },
+  {
     "feedback": "Very Positive",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "world-health-organization",
-    "dataset": ""
+    "dataset": "Sierra Leone - Health Indicators"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "ocha-ethiopia",
+    "dataset": "Ethiopia - Elevation Model"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "hdx",
+    "dataset": "Total COVID-19 Tests Performed by Country"
   },
   {
     "feedback": "Positive",
@@ -2821,67 +5019,137 @@
     "dataset": "Europe: Coronavirus (COVID-19) Subnational Cases"
   },
   {
-    "feedback": "Neutral",
+    "feedback": "NA",
     "contact": "No",
-    "affiliation": "Academic / Research Institution",
-    "organisation": "ocha-south-sudan",
-    "dataset": ""
+    "affiliation": "None / Personal Use",
+    "organisation": "hdx",
+    "dataset": "Europe: Coronavirus (COVID-19) Subnational Cases"
   },
   {
     "feedback": "Neutral",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "ocha-south-sudan",
-    "dataset": ""
+    "dataset": "South Sudan - Subnational Population Statistics"
+  },
+  {
+    "feedback": "Neutral",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "ocha-south-sudan",
+    "dataset": "South Sudan - Subnational Population Statistics"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "ocha-cameroon",
+    "dataset": "Cameroon administrative level 0-3 boundaries"
   },
   {
     "feedback": "Positive",
     "contact": "Yes",
     "affiliation": "International Organization",
     "organisation": "ocha-cameroon",
-    "dataset": ""
+    "dataset": "Cameroon administrative level 0-3 boundaries"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "unhcr-lebanon",
+    "dataset": "Informal Settlements of Syrian Refugeees in Lebanon"
   },
   {
     "feedback": "Neutral",
     "contact": "No",
     "affiliation": "International Organization",
     "organisation": "ocha-roap",
-    "dataset": ""
+    "dataset": "Bangladesh - Contour Lines"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "wfp",
+    "dataset": "Sudan streets and pathways"
   },
   {
     "feedback": "Very Negative",
     "contact": "No",
     "affiliation": "Private Sector",
     "organisation": "ocha-philippines",
-    "dataset": ""
+    "dataset": "Philippines - Water Courses(Rivers)"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "ocha-roap",
+    "dataset": "Indonesia administrative level 0-4 boundaries"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "wcaro",
-    "dataset": ""
+    "dataset": "Ebola UNICEF EOC - Psychosocial - April 2019 Dataset"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "healthsites",
+    "dataset": "Chile-healthsites"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "world-bank-group",
+    "dataset": "India - Energy and Mining"
   },
   {
     "feedback": "Neutral",
     "contact": "No",
     "affiliation": "Non-Profit Organization",
     "organisation": "wfp",
-    "dataset": ""
+    "dataset": "Egypt streets and pathways"
   },
   {
     "feedback": "Negative",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "un-operational-satellite-appplications-programme-unosat",
-    "dataset": ""
+    "dataset": "Damage Assessment in Xochimilco and Tlahuac Municipalities, Federal State, Mexico"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "International Organization",
+    "organisation": "ocha-car",
+    "dataset": "Central African Republic - Water Bodies- Rivers ( Landsat satellite images (2002-2003)"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "facebook",
+    "dataset": "Future Of Business Survey - Aggregated Data"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "International Organization",
     "organisation": "ocha-roap",
-    "dataset": ""
+    "dataset": "Malaysia administrative level 0-2 boundarie"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "hot",
+    "dataset": "HOTOSM Barbados Roads (OpenStreetMap Export)"
   },
   {
     "feedback": "Neutral",
@@ -2891,11 +5159,32 @@
     "dataset": "Ebola outbreaks before 2014"
   },
   {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "International Organization",
+    "organisation": "ocha-romena",
+    "dataset": "Egypt Administrative Boundaries (levels 0 - 3)"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Media / News",
+    "organisation": "acled",
+    "dataset": "Colombia - Conflict Data"
+  },
+  {
     "feedback": "Negative",
     "contact": "Yes",
     "affiliation": "None / Personal Use",
     "organisation": "facebook",
     "dataset": "Movement Range Maps"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "International Organization",
+    "organisation": "ocha-philippines",
+    "dataset": "Marawi Conflict IDP and returned figures by month and region"
   },
   {
     "feedback": "Positive",
@@ -2905,11 +5194,18 @@
     "dataset": "State of Palestine - Roads"
   },
   {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Non-Profit Organization",
+    "organisation": "ocha-philippines",
+    "dataset": "Marawi Conflict IDP and returned figures by month and region"
+  },
+  {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Non-Profit Organization",
     "organisation": "ocha-rowca",
-    "dataset": ""
+    "dataset": "Liberia administrative level 0-2 boundaries"
   },
   {
     "feedback": "Neutral",
@@ -2930,14 +5226,21 @@
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "ocha-rolac",
-    "dataset": ""
+    "dataset": "Honduras - Subnational Administrative Boundaries"
   },
   {
     "feedback": "Neutral",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "ocha-rolac",
-    "dataset": ""
+    "dataset": "Honduras - Subnational Administrative Boundaries"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Private Sector",
+    "organisation": "ocha-rowca",
+    "dataset": "Senegal administrative level 0-3 boundaries"
   },
   {
     "feedback": "Positive",
@@ -2947,18 +5250,53 @@
     "dataset": "Coronavirus (COVID-19) Cases and Deaths"
   },
   {
-    "feedback": "Positive",
-    "contact": "Yes",
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "unicef-data",
+    "dataset": "Rapid Situation Tracking for COVID-19 Socioeconomic Impacts"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "ocha-fiss",
+    "dataset": "Guyana administrative level 0, 1, and 2 boundaries"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "facebook",
-    "dataset": ""
+    "dataset": "Bulgaria: High Resolution Population Density Maps + Demographic Estimates"
   },
   {
     "feedback": "Positive",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "facebook",
-    "dataset": ""
+    "dataset": "Brazil: High Resolution Population Density Maps + Demographic Estimates"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Private Sector",
+    "organisation": "facebook",
+    "dataset": "Brazil: High Resolution Population Density Maps + Demographic Estimates"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "unesco",
+    "dataset": "Curaçao - Education: Students and Teachers"
+  },
+  {
+    "feedback": "Positive",
+    "contact": "Yes",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "facebook",
+    "dataset": "Brazil: High Resolution Population Density Maps + Demographic Estimates"
   },
   {
     "feedback": "Neutral",
@@ -2968,32 +5306,74 @@
     "dataset": "Yemen CrisisInSight Core Dataset 2020"
   },
   {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "facebook",
+    "dataset": "Brazil: High Resolution Population Density Maps + Demographic Estimates"
+  },
+  {
     "feedback": "Neutral",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "facebook",
-    "dataset": ""
+    "dataset": "Brazil: High Resolution Population Density Maps + Demographic Estimates"
   },
   {
     "feedback": "Negative",
     "contact": "No",
     "affiliation": "Government",
     "organisation": "facebook",
-    "dataset": ""
+    "dataset": "Brazil: High Resolution Population Density Maps + Demographic Estimates"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "facebook",
+    "dataset": "Brazil: High Resolution Population Density Maps + Demographic Estimates"
   },
   {
     "feedback": "Neutral",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "Facebook",
-    "dataset": ""
+    "dataset": "Brazil: High Resolution Population Density Maps + Demographic Estimates"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "ocha-rolac",
+    "dataset": "Mexico - Subnational Administrative Boundaries"
   },
   {
     "feedback": "Neutral",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "facebook",
-    "dataset": ""
+    "dataset": "Brazil: High Resolution Population Density Maps + Demographic Estimates"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "healthsites",
+    "dataset": "Chad-healthsites"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "hot",
+    "dataset": "HOTOSM Iran Roads (OpenStreetMap Export)"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Government",
+    "organisation": "facebook",
+    "dataset": "Brazil: High Resolution Population Density Maps + Demographic Estimates"
   },
   {
     "feedback": "Neutral",
@@ -3007,63 +5387,224 @@
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "facebook",
-    "dataset": ""
+    "dataset": "Brazil: High Resolution Population Density Maps + Demographic Estimates"
   },
   {
     "feedback": "Neutral",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "facebook",
-    "dataset": ""
+    "dataset": "Brazil: High Resolution Population Density Maps + Demographic Estimates"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "facebook",
+    "dataset": "Brazil: High Resolution Population Density Maps + Demographic Estimates"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "facebook",
+    "dataset": "Brazil: High Resolution Population Density Maps + Demographic Estimates"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "worldpop",
+    "dataset": "Kenya - Population"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "facebook",
+    "dataset": "Brazil: High Resolution Population Density Maps + Demographic Estimates"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "facebook",
+    "dataset": "Brazil: High Resolution Population Density Maps + Demographic Estimates"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "facebook",
+    "dataset": "Brazil: High Resolution Population Density Maps + Demographic Estimates"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Government",
+    "organisation": "facebook",
+    "dataset": "Brazil: High Resolution Population Density Maps + Demographic Estimates"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "facebook",
+    "dataset": "Brazil: High Resolution Population Density Maps + Demographic Estimates"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "facebook",
+    "dataset": "Brazil: High Resolution Population Density Maps + Demographic Estimates"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "International Organization",
+    "organisation": "facebook",
+    "dataset": "Brazil: High Resolution Population Density Maps + Demographic Estimates"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "facebook",
+    "dataset": "Brazil: High Resolution Population Density Maps + Demographic Estimates"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Government",
     "organisation": "facebook",
-    "dataset": ""
+    "dataset": "Brazil: High Resolution Population Density Maps + Demographic Estimates"
   },
   {
     "feedback": "Neutral",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "facebook",
-    "dataset": ""
+    "dataset": "Brazil: High Resolution Population Density Maps + Demographic Estimates"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "facebook",
+    "dataset": "Brazil: High Resolution Population Density Maps + Demographic Estimates"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Non-Profit Organization",
+    "organisation": "facebook",
+    "dataset": "Brazil: High Resolution Population Density Maps + Demographic Estimates"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "facebook",
+    "dataset": "Brazil: High Resolution Population Density Maps + Demographic Estimates"
   },
   {
     "feedback": "Neutral",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "facebook",
-    "dataset": ""
+    "dataset": "Brazil: High Resolution Population Density Maps + Demographic Estimates"
   },
   {
     "feedback": "Negative",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "facebook",
-    "dataset": ""
+    "dataset": "Brazil: High Resolution Population Density Maps + Demographic Estimates"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Private Sector",
+    "organisation": "facebook",
+    "dataset": "Brazil: High Resolution Population Density Maps + Demographic Estimates"
   },
   {
     "feedback": "Neutral",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "facebook",
-    "dataset": ""
+    "dataset": "Brazil: High Resolution Population Density Maps + Demographic Estimates"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Government",
+    "organisation": "facebook",
+    "dataset": "Brazil: High Resolution Population Density Maps + Demographic Estimates"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "healthsites",
+    "dataset": "Gabon-healthsites"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Private Sector",
+    "organisation": "facebook",
+    "dataset": "Brazil: High Resolution Population Density Maps + Demographic Estimates"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "International Organization",
+    "organisation": "facebook",
+    "dataset": "Brazil: High Resolution Population Density Maps + Demographic Estimates"
   },
   {
     "feedback": "Positive",
     "contact": "Yes",
     "affiliation": "Private Sector",
     "organisation": "facebook",
-    "dataset": ""
+    "dataset": "Brazil: High Resolution Population Density Maps + Demographic Estimates"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "facebook",
+    "dataset": "Brazil: High Resolution Population Density Maps + Demographic Estimates"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "ocha-rolac",
+    "dataset": "Ecuador administrative level 0 (country), level 1 (province), 2 (canton), and 3 (parroquia) boundaries"
   },
   {
     "feedback": "Neutral",
     "contact": "Yes",
     "affiliation": "Non-Profit Organization",
     "organisation": "insecurity-insight",
-    "dataset": ""
+    "dataset": "Aid Worker KKA (Killed, Kidnapped or Arrested)"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Non-Profit Organization",
+    "organisation": "insecurity-insight",
+    "dataset": "Aid Worker KKA (Killed, Kidnapped or Arrested)"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "insecurity-insight",
+    "dataset": "Aid Worker KKA (Killed, Kidnapped or Arrested)"
   },
   {
     "feedback": "Positive",
@@ -3073,6 +5614,13 @@
     "dataset": "Kenya - Admin Level 1 - 3 Boundaries"
   },
   {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "insecurity-insight",
+    "dataset": "Aid Worker KKA (Killed, Kidnapped or Arrested)"
+  },
+  {
     "feedback": "Positive",
     "contact": "Yes",
     "affiliation": "None / Personal Use",
@@ -3080,67 +5628,165 @@
     "dataset": "Cameroon administrative level 0-3 boundaries"
   },
   {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Private Sector",
+    "organisation": "world-health-organization",
+    "dataset": "Gambia - Health Indicators"
+  },
+  {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "ocha-rolac",
-    "dataset": ""
+    "dataset": "Argentina - Subnational Administrative Boundaries"
   },
   {
     "feedback": "Very Positive",
     "contact": "Yes",
     "affiliation": "Non-Profit Organization",
     "organisation": "international-displacement-monitoring-centre-idmc",
-    "dataset": ""
+    "dataset": "Somalia - Internally displaced persons - IDPs"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "wfp",
+    "dataset": "Bangladesh - Food Prices"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "global-health-50-50",
+    "dataset": "COVID-19 Sex-Disaggregated Data Tracker"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "International Organization",
+    "organisation": "global-health-50-50",
+    "dataset": "COVID-19 Sex-Disaggregated Data Tracker"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "healthsites",
+    "dataset": "Afghanistan-healthsites"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "None / Personal Use",
+    "organisation": "hdx",
+    "dataset": "Morocco - Conflict Data"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Private Sector",
     "organisation": "metabiota",
-    "dataset": ""
+    "dataset": "Spatiotemporal data for 2019-Novel Coronavirus Covid-19 Cases and deaths"
   },
   {
     "feedback": "Negative",
     "contact": "No",
     "affiliation": "International Organization",
     "organisation": "wfp",
-    "dataset": ""
+    "dataset": "Honduras - Food Prices"
   },
   {
     "feedback": "Positive",
     "contact": "Yes",
     "affiliation": "Government",
     "organisation": "brcmapsteam",
-    "dataset": ""
+    "dataset": "Vanuatu Households GPS points (2009)"
   },
   {
     "feedback": "Positive",
     "contact": "Yes",
     "affiliation": "Government",
     "organisation": "ocha-philippines",
-    "dataset": ""
+    "dataset": "Philippines - Subnational Administrative Boundaries"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "ocha-philippines",
+    "dataset": "Philippines - Subnational Administrative Boundaries"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "ocha-philippines",
+    "dataset": "Philippines - Subnational Administrative Boundaries"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Blank / Invalid Response",
+    "organisation": "ocha-philippines",
+    "dataset": "Philippines - Subnational Administrative Boundaries"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "facebook",
+    "dataset": "Movement Range Maps"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Healthcare",
+    "organisation": "hdx",
+    "dataset": "The New York Times Coronavirus (Covid-19) Cases and Deaths in the United States"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Private Sector",
     "organisation": "ocha-philippines",
-    "dataset": ""
+    "dataset": "Philippines - Subnational Administrative Boundaries"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Private Sector",
+    "organisation": "ocha-philippines",
+    "dataset": "Philippines - Subnational Administrative Boundaries"
   },
   {
     "feedback": "Positive",
     "contact": "Yes",
     "affiliation": "International Organization",
     "organisation": "ocha-philippines",
-    "dataset": ""
+    "dataset": "Philippines - Subnational Administrative Boundaries"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "ocha-philippines",
+    "dataset": "Philippines - Subnational Administrative Boundaries"
   },
   {
     "feedback": "Positive",
     "contact": "Yes",
     "affiliation": "Private Sector",
     "organisation": "ocha-ethiopia",
-    "dataset": ""
+    "dataset": "Ethiopia administrative level 0-3 boundaries"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "reach-initiative",
+    "dataset": "Health facilities in Rohingya refugee sites of Ukhia and Teknaf Upazilas"
   },
   {
     "feedback": "Neutral",
@@ -3150,6 +5796,13 @@
     "dataset": "Nigeria: High Resolution Population Density Maps + Demographic Estimates"
   },
   {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Non-Profit Organization",
+    "organisation": "unhcr",
+    "dataset": "Demographics for UNHCR's populations of concern residing in Ethiopia"
+  },
+  {
     "feedback": "Positive",
     "contact": "Yes",
     "affiliation": "Non-Profit Organization",
@@ -3157,25 +5810,46 @@
     "dataset": "The New York Times Coronavirus (Covid-19) Cases and Deaths in the United States"
   },
   {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "facebook",
+    "dataset": "Movement Range Maps"
+  },
+  {
     "feedback": "Neutral",
     "contact": "No",
     "affiliation": "Media / News",
     "organisation": "fao-swalim",
-    "dataset": ""
+    "dataset": "Somalia - Drought situation in Somalia"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Media / News",
+    "organisation": "world-bank-group",
+    "dataset": "Madagascar - Millenium development goals"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "hdx",
+    "dataset": "The New York Times Coronavirus (Covid-19) Cases and Deaths in the United States"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "american-red-cross",
-    "dataset": ""
+    "dataset": "DRC Tribes and Ethnic Cultural Dataset"
   },
   {
     "feedback": "Neutral",
     "contact": "Yes",
     "affiliation": "International Organization",
     "organisation": "fao",
-    "dataset": ""
+    "dataset": "Zimbabwe - Food Security Indicators"
   },
   {
     "feedback": "Neutral",
@@ -3183,6 +5857,13 @@
     "affiliation": "None / Personal Use",
     "organisation": "healthsites",
     "dataset": "El Salvador-healthsites"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "hdx",
+    "dataset": "Total COVID-19 Tests Performed by Country"
   },
   {
     "feedback": "Positive",
@@ -3196,14 +5877,28 @@
     "contact": "Yes",
     "affiliation": "Non-Profit Organization",
     "organisation": "american-red-cross",
-    "dataset": ""
+    "dataset": "DRC Health Zone and Health Area boundaries"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "International Organization",
+    "organisation": "american-red-cross",
+    "dataset": "DRC Health Zone and Health Area boundaries"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "world-health-organization",
+    "dataset": "Benin - Health Indicators"
   },
   {
     "feedback": "Neutral",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "kenya-national-bureau-of-statistics",
-    "dataset": ""
+    "dataset": "Kenya - Per Capita Food Consumption"
   },
   {
     "feedback": "Negative",
@@ -3213,6 +5908,62 @@
     "dataset": "Total COVID-19 Tests Performed by Country"
   },
   {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "inter-sector-coordination-group",
+    "dataset": "Rohingya Refugees Population by Location at Camp and Union Level - Cox's Bazar"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "International Organization",
+    "organisation": "inter-sector-coordination-group",
+    "dataset": "Rohingya Refugees Population by Location at Camp and Union Level - Cox's Bazar"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "inter-sector-coordination-group",
+    "dataset": "Rohingya Refugees Population by Location at Camp and Union Level - Cox's Bazar"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "hdx",
+    "dataset": "Total COVID-19 Tests Performed by Country"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Blank / Invalid Response",
+    "organisation": "inter-sector-coordination-group",
+    "dataset": "Rohingya Refugees Population by Location at Camp and Union Level - Cox's Bazar"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "inter-sector-coordination-group",
+    "dataset": "Rohingya Refugees Population by Location at Camp and Union Level - Cox's Bazar"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "None / Personal Use",
+    "organisation": "inter-sector-coordination-group",
+    "dataset": "Rohingya Refugees Population by Location at Camp and Union Level - Cox's Bazar"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Blank / Invalid Response",
+    "organisation": "ocha-roap",
+    "dataset": "Thailand administrative levels 0-3 boundaries"
+  },
+  {
     "feedback": "Neutral",
     "contact": "No",
     "affiliation": "None / Personal Use",
@@ -3220,81 +5971,158 @@
     "dataset": "Spatiotemporal data for 2019-Novel Coronavirus Covid-19 Cases and deaths"
   },
   {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "hdx",
+    "dataset": "The New York Times Coronavirus (Covid-19) Cases and Deaths in the United States"
+  },
+  {
     "feedback": "Neutral",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "ocha-roap",
-    "dataset": ""
+    "dataset": "Thailand administrative levels 0-3 boundaries"
   },
   {
     "feedback": "Positive",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "ocha-roap",
-    "dataset": ""
+    "dataset": "Thailand administrative levels 0-3 boundaries"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Non-Profit Organization",
+    "organisation": "ocha-roap",
+    "dataset": "Thailand administrative levels 0-3 boundaries"
   },
   {
     "feedback": "Positive",
     "contact": "Yes",
     "affiliation": "International Organization",
     "organisation": "ocha-mali",
-    "dataset": ""
+    "dataset": "Mali administrative level 0-3 boundaries"
   },
   {
-    "feedback": "Positive",
+    "feedback": "NA",
     "contact": "No",
-    "affiliation": "International Organization",
-    "organisation": "ocha-rolac",
-    "dataset": ""
+    "affiliation": "Academic / Research Institution",
+    "organisation": "ocha-mali",
+    "dataset": "Mali administrative level 0-3 boundaries"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "International Organization",
     "organisation": "ocha-car",
-    "dataset": ""
+    "dataset": "Central African Republic Population by Admin"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Healthcare",
+    "organisation": "hdx",
+    "dataset": "The New York Times Coronavirus (Covid-19) Cases and Deaths in the United States"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Non-Profit Organization",
+    "organisation": "ocha-car",
+    "dataset": "Central African Republic Population by Admin"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Non-Profit Organization",
+    "organisation": "irc-ethiopia",
+    "dataset": "IRC Ethiopia ECHO Funded Emergency Responses 30 June 2018 Update"
   },
   {
     "feedback": "Neutral",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "fao",
-    "dataset": ""
+    "dataset": "Japan - Prices"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Non-Profit Organization",
     "organisation": "world-bank-group",
-    "dataset": ""
+    "dataset": "Albania - Climate Change"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Government",
+    "organisation": "hot",
+    "dataset": "HOTOSM Kazakhstan Roads (OpenStreetMap Export)"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "american-red-cross",
+    "dataset": "Philippines small area poverty estimates (2012, 2009, 2006)"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "ocha-philippines",
+    "dataset": "Philippines - Subnational Administrative Boundaries"
   },
   {
     "feedback": "Positive",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "ocha-turkey",
-    "dataset": ""
+    "dataset": "Syrian Arab Republic: IDP movements and IDP spontaneous return movements Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "None / Personal Use",
+    "organisation": "ocha-south-sudan",
+    "dataset": "South Sudan - Subnational Administrative Boundaries"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Government",
+    "organisation": "acf-west-africa",
+    "dataset": "West Africa- Yearly Biomass Production"
   },
   {
     "feedback": "Neutral",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "acf-west-africa",
-    "dataset": ""
+    "dataset": "West Africa- Yearly Biomass Production"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "facebook",
+    "dataset": "High Resolution Population Density Maps"
   },
   {
     "feedback": "Neutral",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "facebook",
-    "dataset": ""
+    "dataset": "High Resolution Population Density Maps"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "facebook",
-    "dataset": ""
+    "dataset": "High Resolution Population Density Maps"
   },
   {
     "feedback": "Neutral",
@@ -3315,119 +6143,301 @@
     "contact": "Yes",
     "affiliation": "International Organization",
     "organisation": "american-red-cross",
-    "dataset": ""
+    "dataset": "Uganda Energy/Gas Facilities"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "healthsites",
-    "dataset": ""
+    "dataset": "Kenya-healthsites"
   },
   {
     "feedback": "Neutral",
     "contact": "No",
     "affiliation": "International Organization",
     "organisation": "healthsites",
-    "dataset": ""
+    "dataset": "Kenya-healthsites"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "healthsites",
+    "dataset": "Kenya-healthsites"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "acaps",
-    "dataset": ""
+    "dataset": "ACAPS COVID-19: Government Measures Dataset"
   },
   {
     "feedback": "Very Positive",
     "contact": "No",
     "affiliation": "Private Sector",
     "organisation": "acaps",
-    "dataset": ""
+    "dataset": "ACAPS COVID-19: Government Measures Dataset"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Government",
     "organisation": "acaps",
-    "dataset": ""
+    "dataset": "ACAPS COVID-19: Government Measures Dataset"
   },
   {
     "feedback": "Negative",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "acaps",
-    "dataset": ""
+    "dataset": "ACAPS COVID-19: Government Measures Dataset"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "acaps",
+    "dataset": "ACAPS COVID-19: Government Measures Dataset"
   },
   {
     "feedback": "Neutral",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "acaps",
-    "dataset": ""
+    "dataset": "ACAPS COVID-19: Government Measures Dataset"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "kenya-open-data-initiative",
+    "dataset": "Kenya - Number of Hospital ICU Beds per county"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "kenya-open-data-initiative",
+    "dataset": "Kenya - Number of Hospital ICU Beds per county"
   },
   {
     "feedback": "Very Positive",
     "contact": "No",
     "affiliation": "Government",
     "organisation": "acaps",
-    "dataset": ""
+    "dataset": "ACAPS COVID-19: Government Measures Dataset"
   },
   {
     "feedback": "Negative",
     "contact": "Yes",
     "affiliation": "Private Sector",
     "organisation": "acaps",
-    "dataset": ""
+    "dataset": "ACAPS COVID-19: Government Measures Dataset"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "acaps",
+    "dataset": "ACAPS COVID-19: Government Measures Dataset"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "ocha-rowca",
+    "dataset": "Togo administrative level 0-2 boundaries"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "world-bank-group",
+    "dataset": "World Bank Indicators of Interest to the COVID-19 Outbreak"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "acaps",
+    "dataset": "ACAPS COVID-19: Government Measures Dataset"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Non-Profit Organization",
+    "organisation": "acaps",
+    "dataset": "ACAPS COVID-19: Government Measures Dataset"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "acaps",
+    "dataset": "ACAPS COVID-19: Government Measures Dataset"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "acaps",
+    "dataset": "ACAPS COVID-19: Government Measures Dataset"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "world-bank-group",
+    "dataset": "World Bank Indicators of Interest to the COVID-19 Outbreak"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Non-Profit Organization",
+    "organisation": "acaps",
+    "dataset": "ACAPS COVID-19: Government Measures Dataset"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Non-Profit Organization",
+    "organisation": "acled",
+    "dataset": "Burkina Faso - Gender"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "world-bank-group",
+    "dataset": "World Bank Indicators of Interest to the COVID-19 Outbreak"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "world-bank-group",
+    "dataset": "Burkina Faso - Gender"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "wfp",
+    "dataset": "Dominican Republic - Food Prices"
   },
   {
     "feedback": "Positive",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "acled",
-    "dataset": ""
+    "dataset": "Nigeria - Conflict Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "dhs",
+    "dataset": "Madagascar - National Demographic and Health Data"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "world-bank-group",
+    "dataset": "World Bank Indicators of Interest to the COVID-19 Outbreak"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "world-bank-group",
+    "dataset": "World Bank Indicators of Interest to the COVID-19 Outbreak"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "world-bank-group",
+    "dataset": "World Bank Indicators of Interest to the COVID-19 Outbreak"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "worldpop",
+    "dataset": "Nigeria - Population"
   },
   {
     "feedback": "Negative",
     "contact": "Yes",
     "affiliation": "Government",
     "organisation": "world-bank-group",
-    "dataset": ""
+    "dataset": "World Bank Indicators of Interest to the COVID-19 Outbreak"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "International Organization",
+    "organisation": "world-bank-group",
+    "dataset": "World Bank Indicators of Interest to the COVID-19 Outbreak"
   },
   {
     "feedback": "Positive",
     "contact": "Yes",
     "affiliation": "Non-Profit Organization",
     "organisation": "american-red-cross",
-    "dataset": ""
+    "dataset": "Administrative Wards in Kenya 1450"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "ocha-pakistan",
+    "dataset": "Pakistan - Population of Major Cities"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Non-Profit Organization",
     "organisation": "american-red-cross",
-    "dataset": ""
+    "dataset": "Administrative Wards in Kenya 1451"
   },
   {
     "feedback": "Neutral",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "american-red-cross",
-    "dataset": ""
+    "dataset": "Administrative Wards in Kenya 1452"
   },
   {
     "feedback": "Positive",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "united-nations-office-for-disaster-risk-reduction-unisdr",
-    "dataset": ""
+    "dataset": "GAR15 Global Exposure Dataset for Korea (Democratic People's Republic of)"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "wfp",
-    "dataset": ""
+    "dataset": "Philippines - Food Prices"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "healthsites",
+    "dataset": "Uganda-healthsites"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "International Organization",
+    "organisation": "reach-initiative",
+    "dataset": "Cox's Bazar District - Refugee Camp WASH Infrastructure Coding 2019"
   },
   {
     "feedback": "Positive",
@@ -3437,60 +6447,88 @@
     "dataset": "Movement Range Maps"
   },
   {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "ocha-dr-congo",
+    "dataset": "DR Congo - Hydrology"
+  },
+  {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "international-displacement-monitoring-centre-idmc",
-    "dataset": ""
+    "dataset": "Mozambique - Internally displaced persons - IDPs"
   },
   {
     "feedback": "Very Positive",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "ocha-roap",
-    "dataset": ""
+    "dataset": "Timor-Leste - Administrative Boundaries (levels 0 - 2)"
   },
   {
     "feedback": "Very Positive",
     "contact": "No",
     "affiliation": "Private Sector",
     "organisation": "ocha-roap",
-    "dataset": ""
+    "dataset": "Timor-Leste - Administrative Boundaries (levels 0 - 2)"
   },
   {
     "feedback": "Positive",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "facebook",
-    "dataset": ""
+    "dataset": "United States: High Resolution Population Density Maps + Demographic Estimates"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "wfp",
+    "dataset": "COVID-19 Global Travel Restrictions and Airline Information"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "International Organization",
+    "organisation": "ocha-somalia",
+    "dataset": "Cash Based Programming in Somalia"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "International Organization",
     "organisation": "ocha-chad",
-    "dataset": ""
+    "dataset": "Chad - Administrative boundaries (administrative levels 0 - 3)"
   },
   {
     "feedback": "Neutral",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "ocha-afghanistan",
-    "dataset": ""
+    "dataset": "Afghanistan: Humanitarian Needs Overview"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Private Sector",
     "organisation": "facebook",
-    "dataset": ""
+    "dataset": "Malaysia: High Resolution Population Density Maps + Demographic Estimates"
   },
   {
     "feedback": "Very Positive",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "ocha-roap",
-    "dataset": ""
+    "dataset": "Papua New Guinea administrative level 0, 1, 2, and 3 boundaries and gazeteer"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "ocha-roap",
+    "dataset": "Papua New Guinea administrative level 0, 1, 2, and 3 boundaries and gazeteer"
   },
   {
     "feedback": "Positive",
@@ -3504,21 +6542,21 @@
     "contact": "No",
     "affiliation": "Non-Profit Organization",
     "organisation": "healthsites",
-    "dataset": ""
+    "dataset": "Burkina Faso-healthsites"
   },
   {
     "feedback": "Very Positive",
     "contact": "Yes",
     "affiliation": "Non-Profit Organization",
     "organisation": "ocha-dr-congo",
-    "dataset": ""
+    "dataset": "RDC - Administrative Boundaries (levels 0 - 2)"
   },
   {
     "feedback": "Neutral",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "ocha-dr-congo",
-    "dataset": ""
+    "dataset": "RDC - Administrative Boundaries (levels 0 - 2)"
   },
   {
     "feedback": "Positive",
@@ -3528,25 +6566,46 @@
     "dataset": "The New York Times Coronavirus (Covid-19) Cases and Deaths in the United States"
   },
   {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Government",
+    "organisation": "ocha-dr-congo",
+    "dataset": "RDC - Administrative Boundaries (levels 0 - 2)"
+  },
+  {
     "feedback": "Neutral",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "world-bank-group",
-    "dataset": ""
+    "dataset": "Tanzania - Economic, Social, Environmental, Health, Education, Development and Energy"
   },
   {
     "feedback": "Neutral",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "wfp",
-    "dataset": ""
+    "dataset": "COVID-19 Global Travel Restrictions and Airline Information"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Private Sector",
+    "organisation": "wfp",
+    "dataset": "COVID-19 Global Travel Restrictions and Airline Information"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Private Sector",
+    "organisation": "wfp",
+    "dataset": "COVID-19 Global Travel Restrictions and Airline Information"
   },
   {
     "feedback": "Neutral",
     "contact": "No",
     "affiliation": "Private Sector",
     "organisation": "wfp",
-    "dataset": ""
+    "dataset": "COVID-19 Global Travel Restrictions and Airline Information"
   },
   {
     "feedback": "Very Positive",
@@ -3556,18 +6615,60 @@
     "dataset": "The New York Times Coronavirus (Covid-19) Cases and Deaths in the United States"
   },
   {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "hdx",
+    "dataset": "The New York Times Coronavirus (Covid-19) Cases and Deaths in the United States"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Private Sector",
+    "organisation": "ocha-rosea",
+    "dataset": "COVID-19 Global Travel Restrictions and Airline Information"
+  },
+  {
     "feedback": "Neutral",
     "contact": "Yes",
     "affiliation": "International Organization",
     "organisation": "ocha-fiss",
-    "dataset": ""
+    "dataset": "Brazil administrative level 0, 1, 2, and 3 boundaries"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "International Organization",
+    "organisation": "ocha-fiss",
+    "dataset": "Brazil administrative level 0, 1, 2, and 3 boundaries"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "International Organization",
+    "organisation": "ocha-fiss",
+    "dataset": "Brazil administrative level 0, 1, 2, and 3 boundaries"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "ocha-fiss",
-    "dataset": ""
+    "dataset": "Brazil administrative level 0, 1, 2, and 3 boundaries"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "un-operational-satellite-appplications-programme-unosat",
+    "dataset": "Bangladesh - Satellite Detected Water Extent in Chittagong District, Chittagong Division"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "ocha-rowca",
+    "dataset": "Guinea administrative level 0-3 boundaries"
   },
   {
     "feedback": "Positive",
@@ -3581,21 +6682,21 @@
     "contact": "No",
     "affiliation": "Academic / Research Institution",
     "organisation": "ocha-afghanistan",
-    "dataset": ""
+    "dataset": "Afghanistan - Conflict Induced Displacements in 2020"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Healthcare",
     "organisation": "facebook",
-    "dataset": ""
+    "dataset": "Mozambique: High Resolution Population Density Maps + Demographic Estimates"
   },
   {
     "feedback": "Positive",
     "contact": "No",
     "affiliation": "Non-Profit Organization",
     "organisation": "kenya-national-bureau-of-statistics",
-    "dataset": ""
+    "dataset": "Kenya: Population Per County and sub county from Census Report"
   },
   {
     "feedback": "Positive",
@@ -3609,14 +6710,21 @@
     "contact": "No",
     "affiliation": "Government",
     "organisation": "kenya-national-bureau-of-statistics",
-    "dataset": ""
+    "dataset": "Kenya: Population Per County and sub county from Census Report"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "kenya-national-bureau-of-statistics",
+    "dataset": "Kenya: Population Per County and sub county from Census Report"
   },
   {
     "feedback": "Positive",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "kenya-national-bureau-of-statistics",
-    "dataset": ""
+    "dataset": "Kenya: Population Per County and sub county from Census Report"
   },
   {
     "feedback": "Positive",
@@ -3624,20 +6732,27 @@
     "affiliation": "None / Personal Use",
     "organisation": "hdx",
     "dataset": "The New York Times Coronavirus (Covid-19) Cases and Deaths in the United States"
+  },
+  {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "None / Personal Use",
+    "organisation": "american-red-cross",
+    "dataset": "Administrative Wards in Kenya 1450"
   },
   {
     "feedback": "Very Positive",
     "contact": "Yes",
     "affiliation": "Non-Profit Organization",
     "organisation": "kenya-national-bureau-of-statistics",
-    "dataset": ""
+    "dataset": "Kenya: Population Per County and sub county from Census Report"
   },
   {
     "feedback": "Positive",
     "contact": "Yes",
     "affiliation": "Government",
     "organisation": "kenya-national-bureau-of-statistics",
-    "dataset": ""
+    "dataset": "Kenya: Population Per County and sub county from Census Report"
   },
   {
     "feedback": "Positive",
@@ -3645,6 +6760,13 @@
     "affiliation": "None / Personal Use",
     "organisation": "hdx",
     "dataset": "The New York Times Coronavirus (Covid-19) Cases and Deaths in the United States"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Non-Profit Organization",
+    "organisation": "ocha-nigeria",
+    "dataset": "Nigeria - Independent National Electoral Commission - LGA and Wards"
   },
   {
     "feedback": "Positive",
@@ -3654,18 +6776,39 @@
     "dataset": "HOTOSM Burundi Roads (OpenStreetMap Export)"
   },
   {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Non-Profit Organization",
+    "organisation": "ocha-nigeria",
+    "dataset": "Nigeria - Independent National Electoral Commission - LGA and Wards"
+  },
+  {
     "feedback": "Neutral",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "ocha-rosa",
-    "dataset": ""
+    "dataset": "Tanzania administrative levels 0-3 population statistics"
   },
   {
     "feedback": "Negative",
     "contact": "Yes",
     "affiliation": "International Organization",
     "organisation": "unhcr",
-    "dataset": ""
+    "dataset": "Resettlement arrivals of refugees originating from Venezuela"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Blank / Invalid Response",
+    "organisation": "healthsites",
+    "dataset": "Egypt-healthsites"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "healthsites",
+    "dataset": "Egypt-healthsites"
   },
   {
     "feedback": "Positive",
@@ -3675,17 +6818,52 @@
     "dataset": "The New York Times Coronavirus (Covid-19) Cases and Deaths in the United States"
   },
   {
+    "feedback": "NA",
+    "contact": "Yes",
+    "affiliation": "Non-Profit Organization",
+    "organisation": "ocha-romena",
+    "dataset": "Libya administrative level 0-2 boundaries and level 3 populated places"
+  },
+  {
     "feedback": "Neutral",
     "contact": "Yes",
     "affiliation": "Academic / Research Institution",
     "organisation": "healthsites",
-    "dataset": ""
+    "dataset": "Nigeria-healthsites"
   },
   {
-    "feedback": "Negative",
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "International Organization",
+    "organisation": "ocha-fiss",
+    "dataset": "Global Humanitarian Response Plan COVID-19 administrative boundaries and population statistics"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Academic / Research Institution",
+    "organisation": "ocha-fiss",
+    "dataset": "Jamaica administrative level 0 and 1 boundary polygons and lines"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "Non-Profit Organization",
+    "organisation": "us-state-hiu",
+    "dataset": "Syria Refugee Sites"
+  },
+  {
+    "feedback": "NA",
     "contact": "No",
     "affiliation": "None / Personal Use",
-    "organisation": "x",
-    "dataset": ""
+    "organisation": "kenya-national-bureau-of-statistics",
+    "dataset": "Kenya: Population Per County and sub county from Census Report"
+  },
+  {
+    "feedback": "NA",
+    "contact": "No",
+    "affiliation": "None / Personal Use",
+    "organisation": "healthsites",
+    "dataset": "Nigeria-healthsites"
   }
 ]
